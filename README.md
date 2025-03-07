@@ -1,4 +1,7 @@
 # BeanBoard
+This is a work in progress...  
+Current status: Initial design thoughts, nothing prototyped yet.
+
 Keyboard and simple LCD display for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
 
 [Wikipedia - Hitachi HD44780 LCD controller](https://en.wikipedia.org/wiki/Hitachi_HD44780_LCD_controller)
