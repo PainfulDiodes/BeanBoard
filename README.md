@@ -2,7 +2,8 @@
 ## ASCII Keyboard and a simple LCD display for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
 
 This is a work in progress...  
-Current status: Initial design thoughts, nothing prototyped yet.  
+Current status: Prototyping LCD output on breadboard. Initial "hello world" successful.
+See: https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld
 
 Schematic: [BeanBoard.pdf](/kicad/BeanBoard.pdf)
 
