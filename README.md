@@ -2,10 +2,14 @@
 ## ASCII Keyboard and a simple LCD display for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
 
 This is a work in progress...  
-Current status: Prototyping LCD output on breadboard. Initial "hello world" successful.
-See: https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld
 
-Schematic: [BeanBoard.pdf](/kicad/BeanBoard.pdf)
+Current status: Prototyping LCD output on breadboard. Initial "hello world" successful.  
+  
+![LCD Hello World](images/LCD_Hello_World.jpg)  
+
+See: https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld  
+
+Schematic: [BeanBoard.pdf](/kicad/BeanBoard.pdf)  
 
 ## Keyboard  
 Aiming for the simplest possible design, using a simple matrix of switches. Diodes are used with each switch to prevent "[ghosting](https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting)".  
