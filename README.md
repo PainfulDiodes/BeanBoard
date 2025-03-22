@@ -1,11 +1,16 @@
 # BeanBoard
-## ASCII Keyboard and a simple LCD display for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
+## QWERTY Keyboard and a simple LCD display for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
 
 This is a work in progress...  
 
-Current status: Prototyping LCD output on breadboard. Initial "hello world" successful.  
+Current status: prototyping on breadboard.  
+
+LCD "hello world" experiment successful.  
+Keyboard / LCD "echo" experiment successful.  
   
-![LCD Hello World](images/LCD_Hello_World.jpg)  
+![Echo](images/breadboard_echo.jpg)  
+
+![LCD Hello World](images/breadboard_LCD_Hello_World.jpg)  
 
 See: https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld  
 
