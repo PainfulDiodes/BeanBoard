@@ -5,8 +5,8 @@ This is a work in progress...
 
 Current status: prototyping on breadboard.  
 
-LCD "hello world" experiment successful.  
-Keyboard / LCD "echo" experiment successful.  
+LCD "hello world" experiment successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld  
+Keyboard / LCD "echo" experiment successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_echo    
   
 ![Echo](images/breadboard_echo.jpg)  
 
