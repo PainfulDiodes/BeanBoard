@@ -1,0 +1,8 @@
+1: Esc 1   2   3   4   5   6   7
+2: 8   9   0   -   =   Bks 
+3: Tab q   w   e   r   t   y   u   
+4: i   o   p   [   ]   Ent CuU
+5: Cap a   s   d   f   g   h   j 
+6: k   l   ;   '   \   CuL CuR CuD
+7: Sf1 z   x   c   v   b   n   m 
+8: ,   .   /   Sf2 Spc Ctr Alt
