@@ -390,7 +390,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 04a22c13-b08f-4d58-8c41-d9ce570c3f72)
-    (at 155.687445 -111.360005)
+    (at 180.87666 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -510,7 +510,7 @@
 
   (footprint "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tstamp 075826b9-3597-431f-9eea-cdea77f8ad02)
-    (at 217.56 -69.58)
+    (at 24.76 21.12)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -626,7 +626,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 080d0f2c-9907-43cb-82a4-a06eb4435dd6)
-    (at 235.02893 -141.688403)
+    (at -4.67 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -834,7 +834,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
     (tstamp 08b59fd2-0018-4cb0-b064-f2f81a0442ab)
-    (at 267.1 -138.34)
+    (at 18.73 -11.67)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -892,7 +892,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 0b2b67a8-9872-4166-86f8-4978de1137f4)
-    (at 219.160633 -172.016801)
+    (at 117.13 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -1342,7 +1342,7 @@
 
   (footprint "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tstamp 137892b8-a1b7-4f49-810c-e9876d1833b6)
-    (at 205.81 -69.58)
+    (at 102.71 21.78)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1546,7 +1546,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
     (tstamp 1787a3be-33a7-455f-a779-48f15ae743b7)
-    (at 267.1 -142.39)
+    (at 18.73 -15.72)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1692,7 +1692,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 1bceec28-e801-44da-9dff-a089f711a651)
-    (at 155.687445 -81.031607)
+    (at 217.234002 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -1886,7 +1886,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
     (tstamp 1d3ac160-341c-4b5d-a04a-0859e44f4324)
-    (at 267.1 -150.49)
+    (at 18.73 -23.82)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2032,7 +2032,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 20cad4af-348c-411d-b060-dd8ed493ed90)
-    (at 187.424039 -111.360005)
+    (at 185.97 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2416,7 +2416,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 2336f5e4-26fb-4bd2-bb41-30fe6963f0fd)
-    (at 219.21 -38.76)
+    (at 300.77 22.09)
     (descr "Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x03 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2482,7 +2482,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 25d6f2e7-3653-44fe-81b2-daac1bb7f524)
-    (at 171.555742 -187.181)
+    (at -56.08 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2602,7 +2602,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 280fbb67-12a3-4e7f-b623-2cf0ad901b32)
-    (at 250.897227 -141.688403)
+    (at 138.09 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2722,7 +2722,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2ac8f915-6af1-4805-9d36-698d6692d8d7)
-    (at 187.424039 -156.852602)
+    (at 131.25 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2842,7 +2842,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2d0dad4e-8d5d-4c38-8250-b925f2c51a1b)
-    (at 187.424039 -172.016801)
+    (at 114.5 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3028,7 +3028,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2f88b557-d890-4786-87aa-d8429356cd0e)
-    (at 187.424039 -126.524204)
+    (at 168.6 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3148,7 +3148,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 315f7217-a3fa-42c4-9324-897860eb7142)
-    (at 203.292336 -96.195806)
+    (at 62.26 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3268,7 +3268,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 35756bd2-d434-44bb-80c9-d7d014b02bff)
-    (at 250.897227 -187.181)
+    (at 82.92 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3388,7 +3388,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 3603acea-5d72-43de-9bc2-06309548fd00)
-    (at 203.292336 -172.016801)
+    (at -25.49 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3508,7 +3508,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 39412395-a15b-4730-bc9b-da42eeb731cd)
-    (at 187.424039 -187.181)
+    (at 96.04 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3971,7 +3971,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3c500074-099e-4395-b68a-61a1a386d6a4)
     )
-    (fp_text value "220R" (at 3.81 1.92) (layer "F.Fab")
+    (fp_text value "220R" (at -244.56 128.59) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c822857b-8723-4cd3-858f-29949ce025bc)
     )
@@ -4200,7 +4200,7 @@
 
   (footprint "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tstamp 47b44f2d-ee9d-496b-90b4-aa38afe46679)
-    (at 262.01 -69.58)
+    (at 165.64 19.35)
     (descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4304,7 +4304,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 48043cf3-53d5-4271-8dff-b440c5a0576d)
-    (at 235.02893 -96.195806)
+    (at 47.75 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4424,7 +4424,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 488ddb19-23f7-4853-a6f5-012beb3a2251)
-    (at 250.897227 -96.195806)
+    (at 190.83 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4544,7 +4544,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 4aba4713-dfcd-4d6c-80ab-0985eac44e62)
-    (at 155.687445 -141.688403)
+    (at 144.519328 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4752,7 +4752,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 4caabc69-4100-41ed-84e9-e2526fbf3866)
-    (at 219.160633 -156.852602)
+    (at 134.4 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4960,7 +4960,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 512194a4-ef28-447e-a238-39b6db10f420)
-    (at 171.555742 -141.688403)
+    (at 5.02 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5080,7 +5080,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 520e3fb1-1c27-45df-9d5e-2b10b120db55)
-    (at 139.819148 -187.181)
+    (at -55.02 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5288,7 +5288,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 53e0a855-3c97-4781-a893-3b2313a7f5b1)
-    (at 245.91 -69.38)
+    (at 251.63 21.55 90)
     (descr "Through hole straight socket strip, 1x16, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x16 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -5297,15 +5297,15 @@
     (property "ki_keywords" "connector")
     (path "/2d243e7a-5bd7-41d8-9eae-89594a275638")
     (attr through_hole)
-    (fp_text reference "J7" (at 0 -2.77) (layer "F.SilkS")
+    (fp_text reference "J7" (at 0 -2.77 90) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e3c73cf3-6884-475d-8915-6d123a479720)
     )
-    (fp_text value "LCD" (at 0 40.87) (layer "F.Fab")
+    (fp_text value "LCD" (at 0 40.87 90) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 35587463-84f4-4fb3-b219-f493ab59f8ba)
     )
-    (fp_text user "${REFERENCE}" (at 0 19.05 90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 19.05) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c7d10ced-8651-4a3d-bcc2-e7bdfc588315)
     )
@@ -5339,37 +5339,37 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp a81901c5-c6eb-4288-8ef3-46f134a052ff))
     (fp_line (start 1.27 39.37) (end -1.27 39.37)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 3c1b84b0-4098-4512-b9ed-e4fb738c6d93))
-    (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "1" thru_hole rect (at 0 0 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 1 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp ec362513-7faf-4ec1-8191-9872d5c826cc))
-    (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "2" thru_hole oval (at 0 2.54 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 2 "VCC") (pinfunction "Pin_2") (pintype "passive") (tstamp 18b3f8b1-2a74-4a85-bbfa-47c063274461))
-    (pad "3" thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "3" thru_hole oval (at 0 5.08 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 111 "/LCD_V0") (pinfunction "Pin_3") (pintype "passive") (tstamp ba5d634a-2e4e-4dd3-a421-9637855f42f1))
-    (pad "4" thru_hole oval (at 0 7.62) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "4" thru_hole oval (at 0 7.62 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 75 "/A0") (pinfunction "Pin_4") (pintype "passive") (tstamp 3692f9e6-0827-4109-86f4-59038e540408))
-    (pad "5" thru_hole oval (at 0 10.16) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "5" thru_hole oval (at 0 10.16 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 112 "/RD") (pinfunction "Pin_5") (pintype "passive") (tstamp fd599c2b-e9f3-403a-8ce6-a7c46fe5dccf))
-    (pad "6" thru_hole oval (at 0 12.7) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "6" thru_hole oval (at 0 12.7 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 113 "/LCD_E") (pinfunction "Pin_6") (pintype "passive") (tstamp 657d0fb5-5fa6-4024-8339-6172cc5226df))
-    (pad "7" thru_hole oval (at 0 15.24) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "7" thru_hole oval (at 0 15.24 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 91 "/D0") (pinfunction "Pin_7") (pintype "passive") (tstamp 18351317-0560-4f21-8bd8-6ab9fe1a17ae))
-    (pad "8" thru_hole oval (at 0 17.78) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "8" thru_hole oval (at 0 17.78 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 92 "/D1") (pinfunction "Pin_8") (pintype "passive") (tstamp 227dd896-46c9-4886-ab70-7c01bc503eef))
-    (pad "9" thru_hole oval (at 0 20.32) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "9" thru_hole oval (at 0 20.32 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 93 "/D2") (pinfunction "Pin_9") (pintype "passive") (tstamp d48e260e-d495-47d0-9021-93e1f56dad95))
-    (pad "10" thru_hole oval (at 0 22.86) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "10" thru_hole oval (at 0 22.86 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 94 "/D3") (pinfunction "Pin_10") (pintype "passive") (tstamp fb47c629-b655-492e-a3d4-fd1179a3ed8b))
-    (pad "11" thru_hole oval (at 0 25.4) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "11" thru_hole oval (at 0 25.4 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 95 "/D4") (pinfunction "Pin_11") (pintype "passive") (tstamp 10515702-9659-46e1-8fa2-668c800430f6))
-    (pad "12" thru_hole oval (at 0 27.94) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "12" thru_hole oval (at 0 27.94 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 96 "/D5") (pinfunction "Pin_12") (pintype "passive") (tstamp db0a85e9-9642-41ae-8515-1fd239230a41))
-    (pad "13" thru_hole oval (at 0 30.48) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "13" thru_hole oval (at 0 30.48 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 97 "/D6") (pinfunction "Pin_13") (pintype "passive") (tstamp 79c0c4a0-e3fd-4164-9b23-4fa8f05b5e5d))
-    (pad "14" thru_hole oval (at 0 33.02) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "14" thru_hole oval (at 0 33.02 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 98 "/D7") (pinfunction "Pin_14") (pintype "passive") (tstamp 46631085-001d-4e54-8dd1-2232a4cd0210))
-    (pad "15" thru_hole oval (at 0 35.56) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "15" thru_hole oval (at 0 35.56 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 114 "/LCD_LED_VCC") (pinfunction "Pin_15") (pintype "passive") (tstamp e8dbfff5-29b8-491d-9e9e-64d19ac3c068))
-    (pad "16" thru_hole oval (at 0 38.1) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
+    (pad "16" thru_hole oval (at 0 38.1 90) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 1 "GND") (pinfunction "Pin_16") (pintype "passive") (tstamp ffdd15ff-29fc-4875-abbe-2d51cbbfe3de))
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
@@ -5556,7 +5556,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 5d5e58b8-34eb-4b2e-9dcf-208e04e7be0b)
-    (at 203.292336 -111.360005)
+    (at 45.89 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5676,7 +5676,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 5f3891fa-f402-4c15-8101-ab904b837b9b)
-    (at 250.897227 -172.016801)
+    (at 101.1 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5796,7 +5796,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 638393d5-ebf9-4fe1-a95d-82b9e826db05)
-    (at 203.292336 -81.031607)
+    (at 80.45 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6004,7 +6004,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 65f48184-22c2-4042-a53d-7240acd0da55)
-    (at 155.687445 -156.852602)
+    (at 126.340662 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6124,7 +6124,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 6dc0ffb7-d955-4f3c-b74c-85ae896d5650)
-    (at 219.160633 -81.031607)
+    (at 226.37 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6420,7 +6420,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 6f5ad503-fd57-48ed-8a0b-bd5f94a0537f)
-    (at 187.424039 -81.031607)
+    (at 223.32 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6628,7 +6628,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 741dc3ef-71ee-48bf-9353-64590680825d)
-    (at 250.897227 -81.031607)
+    (at 210.53 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6988,7 +6988,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 76d485dc-3065-41d2-93ab-fccb79f39c06)
-    (at 139.819148 -156.852602)
+    (at -18.27 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7196,7 +7196,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7ac78f28-fa7b-46a7-b641-927b47525c60)
-    (at 235.02893 -111.360005)
+    (at 30.78 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7316,7 +7316,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7b8b128a-760b-4b82-ad68-720bdfc73a98)
-    (at 235.02893 -156.852602)
+    (at -21.03 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7436,7 +7436,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 7ccb2013-1160-4852-8e62-b532cf6c4544)
-    (at 255.11 -49.88)
+    (at -2.67 23.76)
     (descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x08 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -7512,7 +7512,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7eb5b0c5-ab41-42fd-97da-b2e8508506c9)
-    (at 250.897227 -126.524204)
+    (at 155.67 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7632,7 +7632,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 827604ee-4294-421b-b432-ed915c8dc6a6)
-    (at 171.555742 -156.852602)
+    (at -13.17 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7818,7 +7818,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 85072acb-34d1-4c96-89a7-cbad7b9a1819)
-    (at 219.160633 -111.360005)
+    (at 188.36 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -8268,7 +8268,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 8c47c3e5-5229-4c1a-9ffd-87d07161eb03)
-    (at 139.819148 -141.688403)
+    (at -0.91 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -8740,7 +8740,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 902d3bb3-3b46-4019-b327-01fe14bc14c3)
-    (at 203.292336 -141.688403)
+    (at 8.3 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9036,7 +9036,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 9490d409-bdd3-44b7-bccf-c7eb8e0a7f49)
-    (at 250.897227 -111.360005)
+    (at 172.04 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9156,7 +9156,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 973c0fab-e62d-4cdd-af10-8ec2b8d65590)
-    (at 139.819148 -172.016801)
+    (at -35.05 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9540,7 +9540,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp a109fecf-9586-431b-9042-59ff04637422)
-    (at 155.687445 -172.016801)
+    (at 108.161996 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9660,7 +9660,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
     (tstamp a1a89260-e4db-40a4-b36d-1993f3f13886)
-    (at 267.1 -158.59)
+    (at 18.73 -31.92)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9718,7 +9718,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp a2ecf978-d23c-4345-a096-1b172b7b0f5e)
-    (at 259.71 -49.88)
+    (at 1.93 23.76)
     (descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x08 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9794,7 +9794,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
     (tstamp a6e20ecf-2704-4777-85a3-0972cb7e550e)
-    (at 267.1 -146.44)
+    (at 18.73 -19.77)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9852,7 +9852,7 @@
 
   (footprint "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tstamp a70b9d70-3e8b-4f7b-a6a1-583776c434b7)
-    (at 250.26 -69.58)
+    (at 124.55 19.75)
     (descr "14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9956,7 +9956,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
     (tstamp a8f1fea1-0a7a-42be-8a13-320ea6515347)
-    (at 267.1 -162.64)
+    (at 18.73 -35.97)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10014,7 +10014,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ab048157-851b-4d39-9709-41108049dbc4)
-    (at 171.555742 -81.031607)
+    (at 77.58 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10134,7 +10134,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ab6f3d64-6a2d-4f9f-b118-b7c784ec38f2)
-    (at 171.555742 -126.524204)
+    (at 24.34 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10342,7 +10342,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b142a1a9-902b-40c5-97f6-a03204adc94f)
-    (at 155.687445 -96.195806)
+    (at 199.055326 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10462,7 +10462,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b4120a27-b8e1-461d-bace-130d59fcd2f9)
-    (at 235.02893 -172.016801)
+    (at -53.42 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10582,7 +10582,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b510cc8b-46f0-4ab9-aa2d-6ceb12ae3f14)
-    (at 235.02893 -81.031607)
+    (at 65.64 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11208,7 +11208,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp bc79fb0b-d6cf-4fbf-8a89-d43ce50d5e97)
-    (at 171.555742 -172.016801)
+    (at -30.16 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11328,7 +11328,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp be5e0bf9-abc6-48e9-b0ff-7f569c71b7f3)
-    (at 219.160633 -126.524204)
+    (at 170.78 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11536,7 +11536,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c2f741f0-57a5-4a26-8ae2-2dce39895a9b)
-    (at 203.292336 -126.524204)
+    (at 27.4 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11656,7 +11656,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c8182b8e-55af-4b5c-adb5-4d48c8454ce8)
-    (at 219.160633 -187.181)
+    (at 98.33 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11776,7 +11776,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c81921cd-33ed-4e85-a8fc-49113835deac)
-    (at 187.424039 -96.195806)
+    (at 204.43 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12072,7 +12072,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp cb8e51f5-d459-45c8-808f-8b27f1c94272)
-    (at 171.555742 -111.360005)
+    (at 42.37 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12280,7 +12280,7 @@
 
   (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" (layer "F.Cu")
     (tstamp cde43cc5-9af1-4bcd-adba-e9ce49ee0d65)
-    (at 267.1 -154.54)
+    (at 18.73 -27.87)
     (descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
     (tags "C Disc series Radial pin pitch 2.50mm  diameter 5mm width 2.5mm Capacitor")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12338,7 +12338,7 @@
 
   (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tstamp ce0ac8a1-a80e-4035-b85e-49df5c17eec2)
-    (at 264.06 -50.08)
+    (at 143.91 18.96)
     (descr "16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12534,7 +12534,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp d1fcecc5-b9e7-456a-a1cd-ac86c60f6315)
-    (at 139.819148 -96.195806)
+    (at 53.625998 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12654,7 +12654,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp d34ba3d3-a8d7-4b8a-9551-2afb7a7af3f8)
-    (at 139.819148 -81.031607)
+    (at 71.804664 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12862,7 +12862,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp d6f5b992-c685-4951-8332-9932af2115e5)
-    (at 219.160633 -96.195806)
+    (at 207.57 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13312,7 +13312,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp deccf77e-f641-4671-95a5-7f10aadc4b4f)
-    (at 235.02893 -187.181)
+    (at -72.22 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13432,7 +13432,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e0790eaa-b2b1-43aa-be81-9f8eaa1484d3)
-    (at 219.160633 -141.688403)
+    (at 153.5 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13628,7 +13628,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e1c02b38-f9f1-4356-af33-1df832552215)
-    (at 187.424039 -141.688403)
+    (at 150.14 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13836,7 +13836,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e3b052e6-3439-404a-8cd5-f71c84b6c570)
-    (at 171.555742 -96.195806)
+    (at 59.11 -237.77)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13956,7 +13956,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e4ceae84-b8a7-4ae0-bd1b-8183e1859f07)
-    (at 203.292336 -187.181)
+    (at -57.36 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14076,7 +14076,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e4e5b381-b7c5-4b70-85ec-4c4062cdb9ec)
-    (at 139.819148 -126.524204)
+    (at 17.268666 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14416,7 +14416,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e80f42cb-7434-43e4-83d5-8f2780908632)
-    (at 155.687445 -126.524204)
+    (at 162.697994 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14800,7 +14800,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ee1c591f-ca5c-4057-9597-a59fbe56e54b)
-    (at 139.819148 -111.360005)
+    (at 35.447332 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15184,7 +15184,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp f9058737-a618-47cc-af80-024dabaf4919)
-    (at 203.292336 -156.852602)
+    (at -9.35 -217.87)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15304,7 +15304,7 @@
 
   (footprint "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tstamp f905be50-2b8f-47f1-8d69-356245870a37)
-    (at 229.31 -69.58)
+    (at 51.23 21.12)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15508,7 +15508,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp fa6b7b3b-6166-4ea1-88bb-b81a3e9df42a)
-    (at 155.687445 -187.181)
+    (at 89.98333 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15628,7 +15628,7 @@
 
   (footprint "Package_DIP:DIP-20_W7.62mm_Socket_LongPads" (layer "F.Cu")
     (tstamp fafee545-c013-4a41-a6c4-6de94c71caf9)
-    (at 194.06 -69.58)
+    (at 78.52 21.65)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15744,7 +15744,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp fc3714d5-01bc-48dc-8e4a-b1d9ddc2101e)
-    (at 250.897227 -156.852602)
+    (at 119.59 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15952,7 +15952,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp feeb11c8-32c0-4fb5-aea2-21c2fbf4ed0a)
-    (at 235.02893 -126.524204)
+    (at 12.59 -198.74)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
