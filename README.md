@@ -31,9 +31,17 @@ The [Hitachi HD44780 LCD controller](https://en.wikipedia.org/wiki/Hitachi_HD447
 [Adafruit Standard LCD 20x4](https://www.adafruit.com/product/198)  
 A parallel interface makes it CPU bus friendly - with 8 data bits, enable, R/W and register select inputs.
 
+## GPIO
+
+As an afterthought, repeating the keyboard logic allows for 8 general purpose binary outputs and inputs which can be used for experimentation.
+
 ## Port address decoding
 
-A couple of options were considered: [PortDecoding.pdf](/kicad/PortDecoding/PortDecoding.pdf), and the simpler is selected.
+A couple of options were considered: [PortDecoding.pdf](/kicad/PortDecoding/PortDecoding.pdf), and the simpler was selected.
 
 A 3 to 8 decoder has been used to select pairs of ports. A0 is then used to chose between ports in a pair. The BeanZee board has the logic to separate ports based on A0, and there's a similar arrangement here for LCD. The keyboard ignores A0.
 
+KBD_PORT equ 2 ; or 3  
+LCD_CTRL equ 4 ; LCD control port  
+LCD_DATA equ 5 ; LCD data port  
+GPIO equ 6 ; or 7  
