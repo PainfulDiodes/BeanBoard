@@ -324,7 +324,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 01b35531-d821-4a0e-8795-75356242a8cd)
-    (at 266.55 -169.39)
+    (at 322.1 -125.36)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -390,7 +390,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 04a22c13-b08f-4d58-8c41-d9ce570c3f72)
-    (at 260.42 -257.5)
+    (at 199.62 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -626,7 +626,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 080d0f2c-9907-43cb-82a4-a06eb4435dd6)
-    (at -19.069091 -202.848099)
+    (at 3.320909 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -892,7 +892,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 0b2b67a8-9872-4166-86f8-4978de1137f4)
-    (at 114.147272 -221.2254)
+    (at 127.397272 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -1276,7 +1276,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 119352fb-ad20-4049-9a6a-814d97295ed5)
-    (at 266.55 -172.54)
+    (at 322.1 -128.51)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1692,7 +1692,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 1bceec28-e801-44da-9dff-a089f711a651)
-    (at 296.777342 -257.5)
+    (at 230.16 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2032,7 +2032,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 20cad4af-348c-411d-b060-dd8ed493ed90)
-    (at 259.4 -238.93)
+    (at 199.62 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2482,7 +2482,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 25d6f2e7-3653-44fe-81b2-daac1bb7f524)
-    (at -114.85 -237.658099)
+    (at -57.45 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2602,7 +2602,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 280fbb67-12a3-4e7f-b623-2cf0ad901b32)
-    (at 133.178181 -202.848099)
+    (at 155.568181 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2722,7 +2722,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2ac8f915-6af1-4805-9d36-698d6692d8d7)
-    (at 133.178181 -239.6027)
+    (at 142.468181 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2842,7 +2842,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2d0dad4e-8d5d-4c38-8250-b925f2c51a1b)
-    (at 114.147272 -239.6027)
+    (at 123.437272 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3028,7 +3028,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2f88b557-d890-4786-87aa-d8429356cd0e)
-    (at 171.24 -239.6027)
+    (at 180.53 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3148,7 +3148,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 315f7217-a3fa-42c4-9324-897860eb7142)
-    (at 57.054545 -221.2254)
+    (at 70.304545 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3268,7 +3268,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 35756bd2-d434-44bb-80c9-d7d014b02bff)
-    (at 76.085454 -202.848099)
+    (at 98.475454 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3388,7 +3388,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 3603acea-5d72-43de-9bc2-06309548fd00)
-    (at -38.1 -221.2254)
+    (at -24.85 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3508,7 +3508,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 39412395-a15b-4730-bc9b-da42eeb731cd)
-    (at 95.116363 -239.6027)
+    (at 104.406363 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3628,7 +3628,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 3b445356-36cf-4328-8545-b990c3911dff)
-    (at 266.55 -178.84)
+    (at 322.1 -134.81)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -3958,7 +3958,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 42769b6c-db76-43ee-ad3a-61b5dc2e2c16)
-    (at 266.55 -166.24)
+    (at 322.1 -122.21)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4304,7 +4304,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 48043cf3-53d5-4271-8dff-b440c5a0576d)
-    (at 38.023636 -202.848099)
+    (at 60.413636 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4424,7 +4424,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 488ddb19-23f7-4853-a6f5-012beb3a2251)
-    (at 328.93 -197.62)
+    (at 64.47 -184.72)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4752,7 +4752,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 4caabc69-4100-41ed-84e9-e2526fbf3866)
-    (at 133.178181 -221.2254)
+    (at 146.428181 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4960,7 +4960,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 512194a4-ef28-447e-a238-39b6db10f420)
-    (at -0.038182 -239.6027)
+    (at 9.251818 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5080,7 +5080,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 520e3fb1-1c27-45df-9d5e-2b10b120db55)
-    (at -113.79 -257.868099)
+    (at -57.45 -257.98)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5556,7 +5556,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 5d5e58b8-34eb-4b2e-9dcf-208e04e7be0b)
-    (at 38.023636 -221.2254)
+    (at 51.273636 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5676,7 +5676,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 5f3891fa-f402-4c15-8101-ab904b837b9b)
-    (at 95.116363 -202.848099)
+    (at 117.506363 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5796,7 +5796,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 638393d5-ebf9-4fe1-a95d-82b9e826db05)
-    (at 76.085454 -221.2254)
+    (at 89.335454 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6124,7 +6124,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 6dc0ffb7-d955-4f3c-b74c-85ae896d5650)
-    (at 298.17 -218)
+    (at -19.069091 -186.76)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6420,7 +6420,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 6f5ad503-fd57-48ed-8a0b-bd5f94a0537f)
-    (at 296.75 -238.93)
+    (at 249.258666 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6628,7 +6628,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 741dc3ef-71ee-48bf-9353-64590680825d)
-    (at 348.63 -197.62)
+    (at 230.16 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7196,7 +7196,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7ac78f28-fa7b-46a7-b641-927b47525c60)
-    (at 18.992727 -202.848099)
+    (at 41.382727 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7316,7 +7316,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7b8b128a-760b-4b82-ad68-720bdfc73a98)
-    (at -38.1 -202.848099)
+    (at -15.71 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7512,7 +7512,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7eb5b0c5-ab41-42fd-97da-b2e8508506c9)
-    (at 152.20909 -202.848099)
+    (at 199.62 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7632,7 +7632,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 827604ee-4294-421b-b432-ed915c8dc6a6)
-    (at -19.069091 -239.6027)
+    (at -9.779091 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7752,7 +7752,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 83a3b411-3369-4ef2-8ecd-be9a5ec0b1ff)
-    (at 266.55 -175.69)
+    (at 322.1 -131.66)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -7818,7 +7818,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 85072acb-34d1-4c96-89a7-cbad7b9a1819)
-    (at 260.16 -218)
+    (at -57.45 -186.76)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -8202,7 +8202,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8b1e27ef-5223-426b-acff-4dfd6c22082b)
-    (at 266.55 -191.44)
+    (at 322.1 -147.41)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8740,7 +8740,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 902d3bb3-3b46-4019-b327-01fe14bc14c3)
-    (at -0.038182 -221.2254)
+    (at 13.211818 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9036,7 +9036,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 9490d409-bdd3-44b7-bccf-c7eb8e0a7f49)
-    (at 171.24 -202.848099)
+    (at -0.038182 -186.39)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10014,7 +10014,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ab048157-851b-4d39-9709-41108049dbc4)
-    (at 76.085454 -239.6027)
+    (at 85.375454 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10134,7 +10134,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ab6f3d64-6a2d-4f9f-b118-b7c784ec38f2)
-    (at 18.992727 -239.6027)
+    (at 28.282727 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10342,7 +10342,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b142a1a9-902b-40c5-97f6-a03204adc94f)
-    (at 278.598666 -257.5)
+    (at 230.16 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10462,7 +10462,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b4120a27-b8e1-461d-bace-130d59fcd2f9)
-    (at -99.93 -198.628099)
+    (at -34.46 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10582,7 +10582,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b510cc8b-46f0-4ab9-aa2d-6ceb12ae3f14)
-    (at 57.054545 -202.848099)
+    (at 79.444545 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11208,7 +11208,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp bc79fb0b-d6cf-4fbf-8a89-d43ce50d5e97)
-    (at -38.1 -239.6027)
+    (at -28.81 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11328,7 +11328,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp be5e0bf9-abc6-48e9-b0ff-7f569c71b7f3)
-    (at 171.24 -221.2254)
+    (at 184.49 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11536,7 +11536,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c2f741f0-57a5-4a26-8ae2-2dce39895a9b)
-    (at 18.992727 -221.2254)
+    (at 32.242727 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11656,7 +11656,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c8182b8e-55af-4b5c-adb5-4d48c8454ce8)
-    (at 95.116363 -221.2254)
+    (at 108.366363 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11776,7 +11776,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c81921cd-33ed-4e85-a8fc-49113835deac)
-    (at 277.86 -238.93)
+    (at 211.208666 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12072,7 +12072,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp cb8e51f5-d459-45c8-808f-8b27f1c94272)
-    (at 38.023636 -239.6027)
+    (at 47.313636 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12862,7 +12862,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp d6f5b992-c685-4951-8332-9932af2115e5)
-    (at 279.37 -218)
+    (at -38.1 -186.76)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13070,7 +13070,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp d9758e16-5cfc-41a2-9496-589e856a9479)
-    (at 266.55 -185.14)
+    (at 322.1 -141.11)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13312,7 +13312,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp deccf77e-f641-4671-95a5-7f10aadc4b4f)
-    (at -117.11 -198.628099)
+    (at -57.45 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13432,7 +13432,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e0790eaa-b2b1-43aa-be81-9f8eaa1484d3)
-    (at 152.20909 -221.2254)
+    (at 165.45909 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13628,7 +13628,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e1c02b38-f9f1-4356-af33-1df832552215)
-    (at 152.20909 -239.6027)
+    (at 161.49909 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13836,7 +13836,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e3b052e6-3439-404a-8cd5-f71c84b6c570)
-    (at 57.054545 -239.6027)
+    (at 66.344545 -239.6027)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13956,7 +13956,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e4ceae84-b8a7-4ae0-bd1b-8183e1859f07)
-    (at -116.13 -217.758099)
+    (at -57.45 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14196,7 +14196,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp e6e8e2c5-e92b-4d8f-aa73-4797db87ecd6)
-    (at 266.55 -188.29)
+    (at 322.1 -144.26)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14262,7 +14262,7 @@
 
   (footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp e74f9ab1-e47a-4503-b12f-2059c7f020e5)
-    (at 266.55 -181.99)
+    (at 322.1 -137.96)
     (descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15184,7 +15184,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp f9058737-a618-47cc-af80-024dabaf4919)
-    (at -19.069091 -221.2254)
+    (at -5.819091 -221.2254)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15744,7 +15744,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp fc3714d5-01bc-48dc-8e4a-b1d9ddc2101e)
-    (at 114.147272 -202.848099)
+    (at 136.537272 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15952,7 +15952,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp feeb11c8-32c0-4fb5-aea2-21c2fbf4ed0a)
-    (at -0.038182 -202.848099)
+    (at 22.351818 -202.848099)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
