@@ -232,7 +232,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 0143087f-f1cd-4a8b-9953-5b9466ce7380)
-    (at 62.89 128.64 90)
+    (at 62.89 131.74 90)
     (descr "Through hole straight socket strip, 1x16, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x16 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1812,7 +1812,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 1cb94f36-40ae-4518-840e-58c9a661dba5)
-    (at 57.81 128.64 -90)
+    (at 57.81 131.74 -90)
     (descr "Through hole straight socket strip, 1x07, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x07 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2962,7 +2962,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 2df795c1-9847-4120-b43e-4cfabe2199b0)
-    (at 37.49 108.32)
+    (at 37.49 111.42)
     (descr "Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x03 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6924,7 +6924,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 76774d8f-6609-4e4d-88cb-40c38635df4b)
-    (at 100.99 42.28 -90)
+    (at 100.99 45.38 -90)
     (descr "Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x02 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10966,7 +10966,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp b8438107-ab50-471b-8046-bda7e718efad)
-    (at 37.49 95.62)
+    (at 37.49 98.72)
     (descr "Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x03 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13552,7 +13552,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp e08cbc36-60cd-48f1-9a57-aaa8cd021fb6)
-    (at 65.43 42.28 -90)
+    (at 65.43 45.38 -90)
     (descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x08 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -16070,11 +16070,11 @@
     (pad "4" thru_hole circle (at 12.5 5) (size 1.707896 1.707896) (drill 1.199896) (layers "*.Cu" "*.Mask") (tstamp 23cf85cd-b934-428d-a347-e5e1432cccbe))
   )
 
-  (gr_rect (start 109.7 34.66) (end 29.87 138.26)
+  (gr_rect (start 109.7 37.76) (end 29.87 141.36)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 65ec67e4-902b-44f5-afe1-bbeab23ebfcc))
-  (gr_rect (start 20.670834 26.09) (end 359.800834 246.93)
+  (gr_rect (start 20.670834 29.37) (end 359.800834 246.93)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 25849da0-f066-4c59-a02d-3692632afa15))
-  (gr_text "PainfulDiodes\nBeanZee" (at 32.2 120.02 -90) (layer "F.SilkS") (tstamp 81532c31-71bc-4316-85e1-1b293ce4d85b)
+  (gr_text "PainfulDiodes\nBeanZee" (at 32.2 123.12 -90) (layer "F.SilkS") (tstamp 81532c31-71bc-4316-85e1-1b293ce4d85b)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
   )
 
