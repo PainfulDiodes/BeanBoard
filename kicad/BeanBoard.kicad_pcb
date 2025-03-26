@@ -746,7 +746,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 089418e5-bf20-498d-b339-43740accfa01)
-    (at -133.277148 -269.87 90)
+    (at 246.072852 -233.13 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1012,7 +1012,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 0ba97eb2-2228-4500-9956-c0c7d52d41f2)
-    (at -172.462858 -189.59 90)
+    (at -18.88 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1188,7 +1188,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 10721680-ba25-4ab7-babd-d8225dbf1fbb)
-    (at -156.788574 -224.8 90)
+    (at 29.02 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1944,7 +1944,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 1e61569b-dbd8-4b55-a6e2-04caa4094015)
-    (at -180.3 -206.95 90)
+    (at 124.11 -214.37 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2240,7 +2240,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 2130bbfc-7c6d-4531-a2b0-fe1e973d4067)
-    (at -141.11429 -224.8 90)
+    (at 66.95 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -3694,7 +3694,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 3d16f9b5-f427-4376-9ff0-7772f9343d7d)
-    (at -180.3 -173.4 90)
+    (at 114.33 -196.47 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -3782,7 +3782,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 3d7db5cb-7cee-4055-9d5d-ea55eaa56a49)
-    (at -141.11429 -173.4 90)
+    (at 15.76 -180.09 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -3870,7 +3870,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 41546be5-3544-4678-879f-5b7afd2c0f17)
-    (at 276.002852 -279.94 90)
+    (at 227.06 -214.65 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4112,7 +4112,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 45e964f3-df5d-4786-89d1-10d70792e020)
-    (at -148.951432 -206.95 90)
+    (at 200.47 -214.37 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4872,7 +4872,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 4f755cfa-cfbd-4f45-bf19-965a7af71ae9)
-    (at -133.277148 -206.95 90)
+    (at -22.47 -180.54 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -5200,7 +5200,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 5366bb76-5395-4c5d-b9e7-1922f479fb3f)
-    (at -148.951432 -173.4 90)
+    (at 215.22 -196 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -5468,7 +5468,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 5d4ecf5a-c0bd-4f12-8d0d-8a6e835884ea)
-    (at -125.44 -225.36 90)
+    (at 105.06 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -5916,7 +5916,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 65dbd59b-0c73-474a-862d-596e12d875df)
-    (at -125.44 -173.4 90)
+    (at 245.94 -214.68 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6332,7 +6332,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 6e53aafa-88d4-4407-83d9-27c30f61b4ef)
-    (at -141.11429 -206.95 90)
+    (at -41.41429 -180.54 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6748,7 +6748,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 742204ab-1a8f-4cf2-961f-44d5ea08b55a)
-    (at -180.3 -224.8 90)
+    (at -42 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -7938,7 +7938,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 87ef7e39-bf4e-4808-9c86-8fbea60ab4da)
-    (at -125.44 -189.59 90)
+    (at 95.18 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8388,7 +8388,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8cc3af54-a35b-4a3a-b2e0-6a9fe0ba1c73)
-    (at -133.277148 -189.59 90)
+    (at 76.17 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8564,7 +8564,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8ce50cc1-9f59-4631-b713-1092d42df407)
-    (at -125.44 -269.87 90)
+    (at 246.06 -196.67 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8860,7 +8860,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 92193b85-f3be-4693-81f5-9e28bb76cd23)
-    (at -172.462858 -224.8 90)
+    (at -9.11 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8948,7 +8948,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 94615b5d-4c7f-464f-ba67-943d22e7f3df)
-    (at 283.84 -279.94 90)
+    (at 265 -214.8 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9452,7 +9452,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 9f251a95-705b-4810-9351-4863fc30abc6)
-    (at -156.788574 -173.4 90)
+    (at 170.95 -196.47 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10254,7 +10254,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp ab867e19-e684-4182-bf5c-b98d64119f50)
-    (at -164.625716 -206.95 90)
+    (at 162.29 -214.37 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10790,7 +10790,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp b58091e7-7b7b-4d21-a03d-5fd62d6be8d2)
-    (at -133.277148 -224.8 90)
+    (at 86.03 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -11120,7 +11120,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp bad1f50b-e3e1-45d3-87ed-d2217b6a1127)
-    (at -164.625716 -173.4 90)
+    (at 152.076666 -196.47 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -11984,7 +11984,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp cab056e0-7412-430b-8aa0-30b690c8eb4e)
-    (at -141.11429 -189.59 90)
+    (at 57.16 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12446,7 +12446,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp d07d1c3a-30e5-4d75-8258-0ecf66e34e1c)
-    (at -156.788574 -189.59 90)
+    (at 19.14 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12774,7 +12774,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp d5c49ea1-e63e-4523-987a-270ac8bd7b1f)
-    (at -180.3 -189.59 90)
+    (at -41.71 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13136,7 +13136,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp daac5087-3875-40a6-b812-66fb48a0fffd)
-    (at -148.951432 -224.8 90)
+    (at 48.085 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13224,7 +13224,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp dcc0cf77-5e7e-407d-a6ff-f6b583b9652a)
-    (at -172.462858 -173.4 90)
+    (at 133.203333 -196.47 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13748,7 +13748,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp e2b606d2-aa3c-42ac-92cb-d7b6cae8f7bb)
-    (at -125.44 -206.95 90)
+    (at -3.28 -180.54 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14624,7 +14624,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp ea8f64e0-21bb-42ba-8736-bb13b8a6b56a)
-    (at -172.462858 -206.95 90)
+    (at 143.2 -214.37 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14712,7 +14712,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp edc75e16-da6d-432e-b96e-dae75666cb75)
-    (at -156.788574 -206.95 90)
+    (at 181.38 -214.37 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14920,7 +14920,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f0be817c-4f23-4778-8694-4b8243b82118)
-    (at -164.625716 -224.8 90)
+    (at 9.955 -215.04 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15008,7 +15008,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f256c3fb-e985-4e34-a4a3-46a810d11fc0)
-    (at -148.951432 -189.59 90)
+    (at 38.15 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15096,7 +15096,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f38eb57e-00e1-4d12-aeba-6f35a2565d5f)
-    (at -133.277148 -173.4 90)
+    (at 80.43 -178.25 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15420,7 +15420,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f99e03ff-1aa0-46f4-8984-1200f419f214)
-    (at -164.625716 -189.59 90)
+    (at 0.13 -196.51 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
