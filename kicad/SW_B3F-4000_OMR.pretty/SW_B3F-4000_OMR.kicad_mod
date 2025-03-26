@@ -2,15 +2,15 @@
   (layer "F.Cu")
   (tags "B3F-4000 ")
   (attr through_hole)
-  (fp_text reference "REF**" (at 6.25 2.5 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 6.3 2.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2ff8734d-9674-4c80-be67-20e5a3011afb)
   )
-  (fp_text value "SW_B3F-4000_OMR" (at 6.25 2.5 unlocked) (layer "F.Fab")
+  (fp_text value "SW_B3F-4000_OMR" (at 6.1 -2.4 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fceb9c90-0bcd-4e02-b6b5-b7be4cd6cd39)
   )
-  (fp_text user "${REFERENCE}" (at 6.25 2.5 unlocked) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 6.3 6.9 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ebbe8d40-73e8-494b-8ee5-bd4074f6a2a3)
   )
