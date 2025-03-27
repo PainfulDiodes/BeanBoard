@@ -390,7 +390,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 04a22c13-b08f-4d58-8c41-d9ce570c3f72)
-    (at 288.119016 154.25)
+    (at 279.47 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -626,7 +626,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 080d0f2c-9907-43cb-82a4-a06eb4435dd6)
-    (at 91.819925 209.381901)
+    (at 88.546578 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -746,7 +746,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 089418e5-bf20-498d-b339-43740accfa01)
-    (at 334.571868 179.1 90)
+    (at 313.140984 196.5654 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -892,7 +892,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 0b2b67a8-9872-4166-86f8-4978de1137f4)
-    (at 215.896288 191.0046)
+    (at 208.21564 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -1012,7 +1012,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 0ba97eb2-2228-4500-9956-c0c7d52d41f2)
-    (at 69.619016 215.72 90)
+    (at 66.853407 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1100,7 +1100,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 0cfc3fbc-6ca3-4f86-b42f-3397303e6140)
-    (at 256.595679 160.57 90)
+    (at 247.823502 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1188,7 +1188,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 10721680-ba25-4ab7-babd-d8225dbf1fbb)
-    (at 117.519016 197.19 90)
+    (at 113.337388 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1458,7 +1458,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 1634f68c-79a0-4fc2-84b4-7fe6364d97d4)
-    (at 237.542346 160.57 90)
+    (at 229.517025 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1604,7 +1604,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 1b6c2846-dcbd-4b6c-94e1-924c3ca1a384)
-    (at 303.8733 178.84 90)
+    (at 294.86 178.0927 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -1692,7 +1692,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 1bceec28-e801-44da-9dff-a089f711a651)
-    (at 318.659016 209.381901)
+    (at 297.65 225.61)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -1944,7 +1944,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 1e61569b-dbd8-4b55-a6e2-04caa4094015)
-    (at 212.609016 197.86 90)
+    (at 205.272163 196.5654 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2032,7 +2032,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 20cad4af-348c-411d-b060-dd8ed493ed90)
-    (at 288.119016 172.6273)
+    (at 279.387588 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2152,7 +2152,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 20f29cb8-289c-49b9-af66-2dd006ab2a5a)
-    (at 85.115682 160.57 90)
+    (at 83.065209 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2240,7 +2240,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 2130bbfc-7c6d-4531-a2b0-fe1e973d4067)
-    (at 155.449016 197.19 90)
+    (at 150.111298 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2328,7 +2328,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 2224c0eb-b7f4-4b49-b2d7-5f008a8f71b1)
-    (at 123.222348 160.57 90)
+    (at 119.678163 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -2482,7 +2482,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 25d6f2e7-3653-44fe-81b2-daac1bb7f524)
-    (at 31.049016 172.6273)
+    (at 31.049016 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2602,7 +2602,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 280fbb67-12a3-4e7f-b623-2cf0ad901b32)
-    (at 244.067197 209.381901)
+    (at 237.576826 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2722,7 +2722,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2ac8f915-6af1-4805-9d36-698d6692d8d7)
-    (at 230.967197 172.6273)
+    (at 224.053191 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -2842,7 +2842,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2d0dad4e-8d5d-4c38-8250-b925f2c51a1b)
-    (at 211.936288 172.6273)
+    (at 205.608392 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3028,7 +3028,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 2f88b557-d890-4786-87aa-d8429356cd0e)
-    (at 269.029016 172.6273)
+    (at 260.942789 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3148,7 +3148,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 315f7217-a3fa-42c4-9324-897860eb7142)
-    (at 158.803561 191.0046)
+    (at 153.054775 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3268,7 +3268,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 35756bd2-d434-44bb-80c9-d7d014b02bff)
-    (at 186.97447 209.381901)
+    (at 181.690483 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3388,7 +3388,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 3603acea-5d72-43de-9bc2-06309548fd00)
-    (at 63.649016 191.0046)
+    (at 61.12 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3508,7 +3508,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 39412395-a15b-4730-bc9b-da42eeb731cd)
-    (at 192.905379 172.6273)
+    (at 187.163593 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -3694,7 +3694,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 3d16f9b5-f427-4376-9ff0-7772f9343d7d)
-    (at 202.829016 215.76 90)
+    (at 197.254874 214.078099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -3782,7 +3782,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 3d7db5cb-7cee-4055-9d5d-ea55eaa56a49)
-    (at 104.259016 232.14 90)
+    (at 104.259016 231.91 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -3870,7 +3870,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 41546be5-3544-4678-879f-5b7afd2c0f17)
-    (at 315.559016 197.58 90)
+    (at 294.69 214.548099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4024,7 +4024,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 455d576a-be08-4915-9b39-f0994b6e37fa)
-    (at 227.699016 178.84 90)
+    (at 221.080792 178.0927 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4112,7 +4112,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 45e964f3-df5d-4786-89d1-10d70792e020)
-    (at 288.969016 197.86 90)
+    (at 278.82 196.5654 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4304,7 +4304,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 48043cf3-53d5-4271-8dff-b440c5a0576d)
-    (at 148.912652 209.381901)
+    (at 144.432921 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4424,7 +4424,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 488ddb19-23f7-4853-a6f5-012beb3a2251)
-    (at 152.969016 227.51)
+    (at 144.33 225.61)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4544,7 +4544,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 4aba4713-dfcd-4d6c-80ab-0985eac44e62)
-    (at 240.708106 154.25)
+    (at 232.420263 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4664,7 +4664,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 4c89a2b4-1665-4fd4-99db-c0847214afea)
-    (at 66.062349 160.57 90)
+    (at 64.758732 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4752,7 +4752,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 4caabc69-4100-41ed-84e9-e2526fbf3866)
-    (at 234.927197 191.0046)
+    (at 226.602595 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -4872,7 +4872,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 4f755cfa-cfbd-4f45-bf19-965a7af71ae9)
-    (at 66.029016 231.69 90)
+    (at 66.853407 231.46 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -4960,7 +4960,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 512194a4-ef28-447e-a238-39b6db10f420)
-    (at 97.750834 172.6273)
+    (at 94.939598 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5200,7 +5200,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 5366bb76-5395-4c5d-b9e7-1922f479fb3f)
-    (at 303.719016 216.23 90)
+    (at 271.77 214.548099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -5380,7 +5380,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 568edd98-8b60-4910-9133-3d224cb23e4e)
-    (at 304.019016 160.57 90)
+    (at 294.86 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -5468,7 +5468,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 5d4ecf5a-c0bd-4f12-8d0d-8a6e835884ea)
-    (at 193.559016 197.19 90)
+    (at 186.885208 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -5556,7 +5556,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 5d5e58b8-34eb-4b2e-9dcf-208e04e7be0b)
-    (at 139.772652 191.0046)
+    (at 134.66782 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5676,7 +5676,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 5f3891fa-f402-4c15-8101-ab904b837b9b)
-    (at 206.005379 209.381901)
+    (at 200.319264 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5796,7 +5796,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 638393d5-ebf9-4fe1-a95d-82b9e826db05)
-    (at 177.83447 191.0046)
+    (at 171.44173 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -5916,7 +5916,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 65dbd59b-0c73-474a-862d-596e12d875df)
-    (at 334.439016 197.55 90)
+    (at 313.1 214.548099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6004,7 +6004,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 65f48184-22c2-4042-a53d-7240acd0da55)
-    (at 221.677197 154.25)
+    (at 214.113786 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6124,7 +6124,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 6dc0ffb7-d955-4f3c-b74c-85ae896d5650)
-    (at 69.429925 225.47)
+    (at 69.917797 225.24)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6244,7 +6244,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 6e1494fe-f72e-4476-a007-a16f953b0e85)
-    (at 142.275681 160.57 90)
+    (at 137.98464 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6332,7 +6332,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 6e53aafa-88d4-4407-83d9-27c30f61b4ef)
-    (at 47.084726 231.69 90)
+    (at 46.67 231.46 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6420,7 +6420,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 6f5ad503-fd57-48ed-8a0b-bd5f94a0537f)
-    (at 337.757682 191.0046)
+    (at 316.02 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6540,7 +6540,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 71032c50-4cbc-4cde-bcc1-4a59f50ebc02)
-    (at 218.489013 160.57 90)
+    (at 211.210548 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6628,7 +6628,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 741dc3ef-71ee-48bf-9353-64590680825d)
-    (at 318.659016 191.0046)
+    (at 297.65 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -6748,7 +6748,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 742204ab-1a8f-4cf2-961f-44d5ea08b55a)
-    (at 46.499016 197.19 90)
+    (at 46.499016 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6836,7 +6836,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 757ada10-690f-40c2-9acc-1809c1984e1b)
-    (at 284.876158 178.84 90)
+    (at 276.415189 178.0927 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -6988,7 +6988,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 76d485dc-3065-41d2-93ab-fccb79f39c06)
-    (at 69.429925 154.25)
+    (at 67.66197 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7108,7 +7108,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 7a9322ae-4bb5-4e12-88b7-8b429c45e0d1)
-    (at 189.639016 179.06 90)
+    (at 184.191194 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -7196,7 +7196,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7ac78f28-fa7b-46a7-b641-927b47525c60)
-    (at 129.881743 209.381901)
+    (at 125.80414 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7316,7 +7316,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7b8b128a-760b-4b82-ad68-720bdfc73a98)
-    (at 72.789016 209.381901)
+    (at 69.917797 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7436,7 +7436,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp 7ccb2013-1160-4852-8e62-b532cf6c4544)
-    (at 350.130834 117.67)
+    (at 336.04 94.18)
     (descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x08 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -7512,7 +7512,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 7eb5b0c5-ab41-42fd-97da-b2e8508506c9)
-    (at 288.119016 209.381901)
+    (at 256.205607 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7632,7 +7632,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 827604ee-4294-421b-b432-ed915c8dc6a6)
-    (at 78.719925 172.6273)
+    (at 76.494799 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7818,7 +7818,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 85072acb-34d1-4c96-89a7-cbad7b9a1819)
-    (at 31.049016 225.47)
+    (at 31.049016 225.24)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -7938,7 +7938,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 87ef7e39-bf4e-4808-9c86-8fbea60ab4da)
-    (at 183.679016 215.72 90)
+    (at 178.626093 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8026,7 +8026,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 88cc6cce-d2e6-436a-9127-e59df3accdcb)
-    (at 246.879016 178.5 90)
+    (at 239.525591 177.7527 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8114,7 +8114,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8adf835b-ee00-483b-9b84-5d5c3a3fa82f)
-    (at 113.505682 179.06 90)
+    (at 110.411998 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8268,7 +8268,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 8c47c3e5-5229-4c1a-9ffd-87d07161eb03)
-    (at 88.460834 154.25)
+    (at 85.968447 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -8388,7 +8388,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8cc3af54-a35b-4a3a-b2e0-6a9fe0ba1c73)
-    (at 164.669016 215.72 90)
+    (at 159.997312 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8476,7 +8476,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8ccdee43-1120-4df0-a7e0-da3e5523483b)
-    (at 170.605681 179.06 90)
+    (at 165.746395 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8564,7 +8564,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8ce50cc1-9f59-4631-b713-1092d42df407)
-    (at 334.559016 215.56 90)
+    (at 313.04 231.91 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8652,7 +8652,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 8e5cd064-6b42-4bfc-8c32-83703e6e6771)
-    (at 265.879016 178.61 90)
+    (at 257.97039 177.8627 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8740,7 +8740,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 902d3bb3-3b46-4019-b327-01fe14bc14c3)
-    (at 101.710834 191.0046)
+    (at 97.89391 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -8860,7 +8860,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 92193b85-f3be-4693-81f5-9e28bb76cd23)
-    (at 79.389016 197.19 90)
+    (at 76.563478 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -8948,7 +8948,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 94615b5d-4c7f-464f-ba67-943d22e7f3df)
-    (at 353.499016 197.43 90)
+    (at 331.45 214.548099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9036,7 +9036,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 9490d409-bdd3-44b7-bccf-c7eb8e0a7f49)
-    (at 88.460834 225.84)
+    (at 88.546578 225.61)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9156,7 +9156,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp 973c0fab-e62d-4cdd-af10-8ec2b8d65590)
-    (at 50.399016 154.25)
+    (at 49.355493 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9276,7 +9276,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 9c955fed-e46c-49c8-bcf6-7a1d9af12ff6)
-    (at 151.572348 179.06 90)
+    (at 147.301596 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9364,7 +9364,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 9da1ca73-b9ff-4f65-abad-31a81f375db6)
-    (at 161.329014 160.57 90)
+    (at 156.291117 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9452,7 +9452,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp 9f251a95-705b-4810-9351-4863fc30abc6)
-    (at 259.449016 215.76 90)
+    (at 253.141217 214.078099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -9540,7 +9540,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp a109fecf-9586-431b-9042-59ff04637422)
-    (at 202.646288 154.25)
+    (at 195.807309 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -9718,7 +9718,7 @@
 
   (footprint "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp a2ecf978-d23c-4345-a096-1b172b7b0f5e)
-    (at 350.130834 86.08)
+    (at 336.04 62.59)
     (descr "Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
     (tags "Through hole socket strip THT 1x08 2.54mm single row")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10014,7 +10014,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ab048157-851b-4d39-9709-41108049dbc4)
-    (at 173.87447 172.6273)
+    (at 168.718794 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10134,7 +10134,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ab6f3d64-6a2d-4f9f-b118-b7c784ec38f2)
-    (at 116.781743 172.6273)
+    (at 113.384397 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10254,7 +10254,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp ab867e19-e684-4182-bf5c-b98d64119f50)
-    (at 250.789016 197.86 90)
+    (at 242.046073 196.5654 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10342,7 +10342,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b142a1a9-902b-40c5-97f6-a03204adc94f)
-    (at 318.659016 172.6273)
+    (at 297.65 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10462,7 +10462,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b4120a27-b8e1-461d-bace-130d59fcd2f9)
-    (at 54.039016 209.381901)
+    (at 51.289016 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10582,7 +10582,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp b510cc8b-46f0-4ab9-aa2d-6ceb12ae3f14)
-    (at 167.943561 209.381901)
+    (at 163.061702 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -10702,7 +10702,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp b5143035-c17f-4e3b-8476-0c173286dd65)
-    (at 208.649016 178.84 90)
+    (at 202.635993 178.0927 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10790,7 +10790,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp b58091e7-7b7b-4d21-a03d-5fd62d6be8d2)
-    (at 174.529016 197.19 90)
+    (at 168.498253 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -10878,7 +10878,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp b67a9320-951c-440c-b9da-cd6670760e65)
-    (at 132.539015 179.06 90)
+    (at 128.856797 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -11032,7 +11032,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp b8b37b4c-8d28-479a-9bfb-ea3746892a0d)
-    (at 47.009016 160.57 90)
+    (at 46.452255 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -11120,7 +11120,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp bad1f50b-e3e1-45d3-87ed-d2217b6a1127)
-    (at 240.575682 215.76 90)
+    (at 234.512436 214.078099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -11208,7 +11208,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp bc79fb0b-d6cf-4fbf-8a89-d43ce50d5e97)
-    (at 59.689016 172.6273)
+    (at 58.05 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11328,7 +11328,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp be5e0bf9-abc6-48e9-b0ff-7f569c71b7f3)
-    (at 272.989016 191.0046)
+    (at 263.376505 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11448,7 +11448,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp c1dd32c9-ee8c-4dd3-b575-d1da4cb39264)
-    (at 104.169015 160.57 90)
+    (at 101.371686 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -11536,7 +11536,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c2f741f0-57a5-4a26-8ae2-2dce39895a9b)
-    (at 120.741743 191.0046)
+    (at 116.280865 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11656,7 +11656,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c8182b8e-55af-4b5c-adb5-4d48c8454ce8)
-    (at 196.865379 191.0046)
+    (at 189.828685 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11776,7 +11776,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp c81921cd-33ed-4e85-a8fc-49113835deac)
-    (at 299.707682 191.0046)
+    (at 279.277682 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -11896,7 +11896,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp c84687ef-8008-454b-8c3e-45f088288ab6)
-    (at 94.472349 179.06 90)
+    (at 91.967199 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -11984,7 +11984,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp cab056e0-7412-430b-8aa0-30b690c8eb4e)
-    (at 145.659016 215.72 90)
+    (at 141.368531 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12072,7 +12072,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp cb8e51f5-d459-45c8-808f-8b27f1c94272)
-    (at 135.812652 172.6273)
+    (at 131.829196 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12192,7 +12192,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp cd73693b-318d-45ac-a534-3e721e040d74)
-    (at 275.649016 160.57 90)
+    (at 266.13 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12446,7 +12446,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp d07d1c3a-30e5-4d75-8258-0ecf66e34e1c)
-    (at 107.639016 215.72 90)
+    (at 104.110969 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12534,7 +12534,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp d1fcecc5-b9e7-456a-a1cd-ac86c60f6315)
-    (at 145.553561 154.25)
+    (at 140.887878 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12654,7 +12654,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp d34ba3d3-a8d7-4b8a-9551-2afb7a7af3f8)
-    (at 164.58447 154.25)
+    (at 159.194355 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12774,7 +12774,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp d5c49ea1-e63e-4523-987a-270ac8bd7b1f)
-    (at 46.789016 215.72 90)
+    (at 46.69 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -12862,7 +12862,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp d6f5b992-c685-4951-8332-9932af2115e5)
-    (at 50.399016 225.47)
+    (at 51.289016 225.24)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -12982,7 +12982,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp d8e0bd1f-5d91-4a48-b942-8bacf5492bf0)
-    (at 46.499016 179.06 90)
+    (at 46.499016 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13136,7 +13136,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp daac5087-3875-40a6-b812-66fb48a0fffd)
-    (at 136.584016 197.19 90)
+    (at 131.724343 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13224,7 +13224,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp dcc0cf77-5e7e-407d-a6ff-f6b583b9652a)
-    (at 221.702349 215.76 90)
+    (at 215.883655 214.078099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13312,7 +13312,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp deccf77e-f641-4671-95a5-7f10aadc4b4f)
-    (at 31.049016 209.381901)
+    (at 31.049016 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13432,7 +13432,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e0790eaa-b2b1-43aa-be81-9f8eaa1484d3)
-    (at 253.958106 191.0046)
+    (at 244.98955 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13628,7 +13628,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e1c02b38-f9f1-4356-af33-1df832552215)
-    (at 249.998106 172.6273)
+    (at 242.49799 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13748,7 +13748,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp e2b606d2-aa3c-42ac-92cb-d7b6cae8f7bb)
-    (at 85.219016 231.69 90)
+    (at 85.482188 231.46 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -13836,7 +13836,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e3b052e6-3439-404a-8cd5-f71c84b6c570)
-    (at 154.843561 172.6273)
+    (at 150.273995 171.88)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -13956,7 +13956,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e4ceae84-b8a7-4ae0-bd1b-8183e1859f07)
-    (at 31.049016 191.0046)
+    (at 31.049016 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14076,7 +14076,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e4e5b381-b7c5-4b70-85ec-4c4062cdb9ec)
-    (at 107.491743 154.25)
+    (at 104.274924 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14328,7 +14328,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp e7f91775-97ed-4c72-95da-bdb7272ee03f)
-    (at 199.43568 160.57 90)
+    (at 192.904071 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14416,7 +14416,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp e80f42cb-7434-43e4-83d5-8f2780908632)
-    (at 259.739016 154.25)
+    (at 250.72674 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14536,7 +14536,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp ea840c1a-a2f0-4ec3-8411-64ba918e074a)
-    (at 180.382347 160.57 90)
+    (at 174.597594 160.57 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14624,7 +14624,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp ea8f64e0-21bb-42ba-8736-bb13b8a6b56a)
-    (at 231.699016 197.86 90)
+    (at 223.659118 196.5654 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14712,7 +14712,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp edc75e16-da6d-432e-b96e-dae75666cb75)
-    (at 269.879016 197.86 90)
+    (at 260.433028 196.5654 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -14800,7 +14800,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp ee1c591f-ca5c-4057-9597-a59fbe56e54b)
-    (at 126.522652 154.25)
+    (at 122.581401 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -14920,7 +14920,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f0be817c-4f23-4778-8694-4b8243b82118)
-    (at 98.454016 197.19 90)
+    (at 94.950433 195.8954 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15008,7 +15008,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f256c3fb-e985-4e34-a4a3-46a810d11fc0)
-    (at 126.649016 215.72 90)
+    (at 122.73975 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15096,7 +15096,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f38eb57e-00e1-4d12-aeba-6f35a2565d5f)
-    (at 168.929016 233.98 90)
+    (at 159.94 231.91 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15184,7 +15184,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp f9058737-a618-47cc-af80-024dabaf4919)
-    (at 82.679925 191.0046)
+    (at 79.506955 189.71)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15420,7 +15420,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp f99e03ff-1aa0-46f4-8984-1200f419f214)
-    (at 88.629016 215.72 90)
+    (at 85.482188 214.038099 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15508,7 +15508,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp fa6b7b3b-6166-4ea1-88bb-b81a3e9df42a)
-    (at 183.615379 154.25)
+    (at 177.500832 154.25)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15744,7 +15744,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp fc3714d5-01bc-48dc-8e4a-b1d9ddc2101e)
-    (at 225.036288 209.381901)
+    (at 218.948045 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -15864,7 +15864,7 @@
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
     (tstamp fe234553-6210-4f6d-98be-e9a97245bee7)
-    (at 75.439016 179.06 90)
+    (at 73.5224 178.3127 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (property "Sheetfile" "BeanBoard.kicad_sch")
@@ -15952,7 +15952,7 @@
 
   (footprint "SW_B3F-4000_OMR:SW_B3F-4000_OMR" (layer "F.Cu")
     (tstamp feeb11c8-32c0-4fb5-aea2-21c2fbf4ed0a)
-    (at 110.850834 209.381901)
+    (at 107.175359 207.7)
     (tags "B3F-4000 ")
     (property "Sheetfile" "BeanBoard.kicad_sch")
     (property "Sheetname" "")
@@ -16070,9 +16070,9 @@
     (pad "4" thru_hole circle (at 12.5 5) (size 1.707896 1.707896) (drill 1.199896) (layers "*.Cu" "*.Mask") (tstamp 23cf85cd-b934-428d-a347-e5e1432cccbe))
   )
 
-  (gr_rect (start 109.7 37.76) (end 29.87 141.36)
+  (gr_rect (start 29.87 37.76) (end 109.7 141.36)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 65ec67e4-902b-44f5-afe1-bbeab23ebfcc))
-  (gr_rect (start 20.670834 29.37) (end 359.800834 246.93)
+  (gr_rect (start 18.850834 25.23) (end 345.410834 246.93)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 25849da0-f066-4c59-a02d-3692632afa15))
   (gr_text "PainfulDiodes\nBeanZee" (at 32.2 123.12 -90) (layer "F.SilkS") (tstamp 81532c31-71bc-4316-85e1-1b293ce4d85b)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify left bottom))
