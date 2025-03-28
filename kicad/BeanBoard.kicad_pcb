@@ -757,7 +757,7 @@
     (property "ki_keywords" "diode")
     (path "/66826e8b-e6c8-4cab-bb4a-5bda850967d8")
     (attr through_hole)
-    (fp_text reference "D16" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D16" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 02581b56-5285-47d0-86fb-da8a5856f489)
     )
@@ -765,7 +765,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 61af0548-8cd5-44f6-8435-ada745d27d8e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 90394cc7-b719-4ff8-a1b5-df652fdc8758)
     )
@@ -1023,7 +1023,7 @@
     (property "ki_keywords" "diode")
     (path "/da21d5e2-a825-4d70-a37b-1cae8432901f")
     (attr through_hole)
-    (fp_text reference "D61" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D61" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d313f4e4-719d-44fb-8dcd-b56904dbec24)
     )
@@ -1031,7 +1031,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e26ba048-8537-4b00-9dea-7e8f7c841186)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f5635bf8-146a-4050-a57b-d8629e6782e7)
     )
@@ -1111,7 +1111,7 @@
     (property "ki_keywords" "diode")
     (path "/a941ce2a-bc7b-4638-891f-b384fd6ed06e")
     (attr through_hole)
-    (fp_text reference "D13" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D13" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c22848f3-7d05-4dca-a984-cf103d886203)
     )
@@ -1119,7 +1119,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e0d3f850-006f-4911-9797-f19d731b5ad4)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 550cc42d-9b59-4852-bcc1-49b5e149ca95)
     )
@@ -1199,7 +1199,7 @@
     (property "ki_keywords" "diode")
     (path "/e091aca8-0128-4e76-aada-dbd00dbc7aeb")
     (attr through_hole)
-    (fp_text reference "D43" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D43" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6503673c-0a92-44a8-a4be-982cc63f228f)
     )
@@ -1207,7 +1207,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f2c4fc13-5a56-4007-92b2-2bae28054402)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 616b41df-68f9-4408-8e57-6ea4dfcac3bc)
     )
@@ -1469,7 +1469,7 @@
     (property "ki_keywords" "diode")
     (path "/58b4d65c-a3d8-4eb0-b83e-2a762c36833f")
     (attr through_hole)
-    (fp_text reference "D12" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D12" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7bf2fa23-fdba-4dd6-b464-0b9e264a07d6)
     )
@@ -1477,7 +1477,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f59fdcf6-5828-4d8f-8b14-ffd5ec6062e3)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 52af4a45-19e5-4373-a002-debaf1ca724e)
     )
@@ -1615,7 +1615,7 @@
     (property "ki_keywords" "diode")
     (path "/33f2c9ce-e8b7-4ca1-9fea-bb0f28ff5494")
     (attr through_hole)
-    (fp_text reference "D35" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D35" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 433e54ff-bf95-42ba-9963-694a6bbfaa7a)
     )
@@ -1623,7 +1623,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 683222b9-558e-481c-878a-dbd0f5343099)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e69f67a3-9756-434c-be1a-69f522aec42b)
     )
@@ -1955,7 +1955,7 @@
     (property "ki_keywords" "diode")
     (path "/7f508720-7b49-4f81-b8d0-0cb729d6dc6f")
     (attr through_hole)
-    (fp_text reference "D50" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D50" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 419c8449-4218-4172-8a67-787c94017488)
     )
@@ -1963,7 +1963,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1014847a-6a10-4abf-bd90-5134dbdc5faf)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8a5c8dd7-63eb-4287-9f34-669d3f9fc3cd)
     )
@@ -2163,7 +2163,7 @@
     (property "ki_keywords" "diode")
     (path "/dcbf635e-10bd-4a88-9403-1cd0b8abb97f")
     (attr through_hole)
-    (fp_text reference "D02" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D02" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 11f4249b-910b-4032-b550-dc7b729d8425)
     )
@@ -2171,7 +2171,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 58b2e107-5af8-47df-b087-a81082bb2eb6)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ef20cc96-268e-4ee8-b2d5-94712de8a466)
     )
@@ -2251,7 +2251,7 @@
     (property "ki_keywords" "diode")
     (path "/8164f08d-f2d6-44a1-a75e-3715de437163")
     (attr through_hole)
-    (fp_text reference "D45" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D45" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2e838f18-6d46-407b-81f3-64901021fb06)
     )
@@ -2259,7 +2259,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8920c5a5-5d59-499f-b24b-164ed810e740)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea328913-d4f9-4ae1-85ca-25bd7fadbaf5)
     )
@@ -2339,7 +2339,7 @@
     (property "ki_keywords" "diode")
     (path "/21735cd0-3ff2-4d17-8603-6b3c6716c14c")
     (attr through_hole)
-    (fp_text reference "D04" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D04" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 05366939-2811-465e-a936-ed2c666e6a4a)
     )
@@ -2347,7 +2347,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1ead1088-01e3-4baf-8833-bf81ebaed449)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fdfa4005-3dad-4d59-91d0-338f053a573b)
     )
@@ -3705,7 +3705,7 @@
     (property "ki_keywords" "diode")
     (path "/7a69eb96-fad8-4680-a4a0-fb4840260bcd")
     (attr through_hole)
-    (fp_text reference "D70" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D70" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b60f1bb6-6c56-4cea-b51d-b14c935936fb)
     )
@@ -3713,7 +3713,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0813f1f8-f3ca-47f3-8d8f-d6f3047622f7)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a0863ee7-b765-4a6c-ae18-559cfa47e837)
     )
@@ -3793,7 +3793,7 @@
     (property "ki_keywords" "diode")
     (path "/95b15a6a-8d2c-443a-a0b8-fae91e3121c7")
     (attr through_hole)
-    (fp_text reference "D75" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D75" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5e6ca5f8-b12e-461b-b0d2-9fdd09eae52a)
     )
@@ -3801,7 +3801,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp edd7b5ee-3f38-4c55-9914-3e8820fb1016)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e03266ed-f5af-4ce1-be38-49d22b111680)
     )
@@ -3881,7 +3881,7 @@
     (property "ki_keywords" "diode")
     (path "/f618ba05-c9f7-46fa-9618-5c303ea37c23")
     (attr through_hole)
-    (fp_text reference "D36" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D36" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d326fdc2-e242-4dd6-83c0-bbb766f80da5)
     )
@@ -3889,7 +3889,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d3796d9a-d802-4405-a02c-f98a0a9485ce)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5d31fff6-644e-44a7-b51c-778864a9c280)
     )
@@ -4035,7 +4035,7 @@
     (property "ki_keywords" "diode")
     (path "/650644de-cece-48fd-80da-4a00d46157da")
     (attr through_hole)
-    (fp_text reference "D31" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D31" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1cd550a2-5524-4a99-98d0-774c497d0322)
     )
@@ -4043,7 +4043,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9c6f7300-0c04-4cba-9ba3-57af815bc2c5)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 75868d0e-a76f-46db-a6c7-4fe41dc17b48)
     )
@@ -4123,7 +4123,7 @@
     (property "ki_keywords" "diode")
     (path "/bdfaac9d-2e61-4d30-ab89-18595639cd3c")
     (attr through_hole)
-    (fp_text reference "D54" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D54" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f07ba8aa-dd99-4e29-8160-f407c3dd91a3)
     )
@@ -4131,7 +4131,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aa9520e8-3b9b-4163-975b-a6d4636d080f)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 594fd956-e0ff-44d6-9030-74153d4dea84)
     )
@@ -4675,7 +4675,7 @@
     (property "ki_keywords" "diode")
     (path "/ab6a8785-70bd-4f61-87ec-04f1438fb69c")
     (attr through_hole)
-    (fp_text reference "D01" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D01" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ee5d218a-e28c-46ee-b576-c6cdbadfdd0c)
     )
@@ -4683,7 +4683,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 06756039-0a2b-4766-9c1a-077064aa42d6)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 33dd53eb-567b-4a5f-a05b-11eceec73a79)
     )
@@ -4883,7 +4883,7 @@
     (property "ki_keywords" "diode")
     (path "/03cfc88f-ab82-4b06-b03c-4ed2746ccf7a")
     (attr through_hole)
-    (fp_text reference "D56" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D56" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ebd9c05f-6431-4e43-86b1-efd850fef0e2)
     )
@@ -4891,7 +4891,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 97a1cde6-6deb-42f8-8714-536752c46404)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0a8244bd-0d2d-4fdc-bf7c-6ba705eaa03c)
     )
@@ -5211,7 +5211,7 @@
     (property "ki_keywords" "diode")
     (path "/5026a2e8-1b37-4b4f-aa63-ff1c1f179ab6")
     (attr through_hole)
-    (fp_text reference "D74" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D74" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cfcbcddc-8cdd-48ba-a1a2-78b77e8664b4)
     )
@@ -5219,7 +5219,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aea7dbbc-9cc5-4d12-8a5d-94718656ec5e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 177f54f3-a726-415a-9e99-b6d5edc8e776)
     )
@@ -5391,7 +5391,7 @@
     (property "ki_keywords" "diode")
     (path "/7d9c9dd2-2cf8-4375-94b9-088424d3fb77")
     (attr through_hole)
-    (fp_text reference "D15" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D15" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ddc5f324-9763-4be2-9aa7-ebe49dfe4084)
     )
@@ -5399,7 +5399,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp acacb183-9345-4623-a9de-6caa9d3c0141)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6948631c-e5c2-4a6e-b534-2211ef188ee3)
     )
@@ -5479,7 +5479,7 @@
     (property "ki_keywords" "diode")
     (path "/6f2b6edc-f56c-4325-8e11-7cd99b19ea7f")
     (attr through_hole)
-    (fp_text reference "D47" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D47" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f4fe6686-cbd3-47f7-bcfd-536039e5ad1b)
     )
@@ -5487,7 +5487,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7c4f204a-9b17-4bf9-9124-d22d66e71a2c)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0bb36837-bf59-4367-95f7-31406b3adb75)
     )
@@ -5927,7 +5927,7 @@
     (property "ki_keywords" "diode")
     (path "/030704ae-04d4-4728-ba1c-251df57a0865")
     (attr through_hole)
-    (fp_text reference "D77" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D77" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b23776df-6724-4244-8113-6e3b3a53d8fb)
     )
@@ -5935,7 +5935,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e9cca0da-3917-46d2-8b0a-f6ffa20be1fe)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7644b6a5-b940-4094-a4b7-5f93140b532b)
     )
@@ -6255,7 +6255,7 @@
     (property "ki_keywords" "diode")
     (path "/e82d4c46-59c3-4239-bee0-5448dfdde7cd")
     (attr through_hole)
-    (fp_text reference "D05" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D05" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ae8b3f37-3a08-449b-835d-defaca1f0286)
     )
@@ -6263,7 +6263,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7c87b50a-af8f-4be5-912e-cb6826e2f574)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2c63f00a-90a4-4134-bcf9-c026cefd46d9)
     )
@@ -6343,7 +6343,7 @@
     (property "ki_keywords" "diode")
     (path "/a4ef953f-e99a-4f4b-ac69-044b4e512516")
     (attr through_hole)
-    (fp_text reference "D55" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D55" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cdd3d7cc-358c-4341-921a-6baf1beba4f5)
     )
@@ -6351,7 +6351,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6ff5e49f-c4d8-4d62-93dd-64c5cae7b443)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0ea40cd2-2176-418a-9577-adff522f4d37)
     )
@@ -6551,7 +6551,7 @@
     (property "ki_keywords" "diode")
     (path "/2f9eb252-75ab-42ff-95de-a68e1acb2b41")
     (attr through_hole)
-    (fp_text reference "D11" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D11" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9fe37592-dbe1-4ab0-8642-a9b46cd5f944)
     )
@@ -6559,7 +6559,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ee648d3e-8e47-4918-bc31-f5ac0441e995)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 486e5d49-5989-433e-b6c7-0e98a66a7a9e)
     )
@@ -6759,7 +6759,7 @@
     (property "ki_keywords" "diode")
     (path "/8ee032c1-903a-4a03-90b9-2e37408bfc71")
     (attr through_hole)
-    (fp_text reference "D40" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D40" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 902f2eb9-9ded-4d4b-8ca5-1f1921aadf08)
     )
@@ -6767,7 +6767,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f68dace2-8f0b-45a6-bfbb-dedb450e6b6e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3db17025-63c6-43e8-9716-e7a9e778cad7)
     )
@@ -6847,7 +6847,7 @@
     (property "ki_keywords" "diode")
     (path "/d76dc89f-6ae7-4afe-ae16-5c5b05d224a2")
     (attr through_hole)
-    (fp_text reference "D34" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D34" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0d79a2aa-966a-4c5f-a970-348106a50f6a)
     )
@@ -6855,7 +6855,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e990d8b1-e250-4991-a8fb-c165b1571043)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp db1334b8-6534-42ee-b11f-163fdc921f50)
     )
@@ -7119,7 +7119,7 @@
     (property "ki_keywords" "diode")
     (path "/ca333b17-88f8-4bd7-9971-4e7943f78e22")
     (attr through_hole)
-    (fp_text reference "D27" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D27" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 863a6777-9c53-4adc-987e-cd7498514d64)
     )
@@ -7127,7 +7127,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5d81bcd6-e7ef-472d-a73e-fe03cdd85f9a)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d3ecee61-e8af-4cfb-beca-bec3032dbe73)
     )
@@ -7949,7 +7949,7 @@
     (property "ki_keywords" "diode")
     (path "/a85a3314-6f06-40d4-adef-26a374386efa")
     (attr through_hole)
-    (fp_text reference "D67" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D67" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ffc08ba3-1d50-4994-ba12-841d25edfb3f)
     )
@@ -7957,7 +7957,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d19ab35d-2777-46c5-833d-b8e5327aa541)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d6ee3210-c686-4695-a126-72e8204214b1)
     )
@@ -8037,7 +8037,7 @@
     (property "ki_keywords" "diode")
     (path "/38b04717-136c-429b-95fd-b47d5346f5dd")
     (attr through_hole)
-    (fp_text reference "D32" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D32" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8edee600-50c2-4715-9911-91fbe20cd601)
     )
@@ -8045,7 +8045,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6b0e51b1-c0fd-4140-baa2-d7ba8b40d2af)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 722a1dae-0405-4964-a337-2929ab604867)
     )
@@ -8125,7 +8125,7 @@
     (property "ki_keywords" "diode")
     (path "/84ff0a3b-63ff-48b7-926a-66bbd7e5dac3")
     (attr through_hole)
-    (fp_text reference "D23" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D23" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4a9ba41d-cb30-45e1-a5de-6a84899acca9)
     )
@@ -8133,7 +8133,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2cabb7c4-c12b-47d4-b83e-b0dc6f0ecaa0)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cd988c35-a3bb-481a-ad68-a584fe2db3b2)
     )
@@ -8399,7 +8399,7 @@
     (property "ki_keywords" "diode")
     (path "/05fc60e8-c75e-457e-89fc-3d331b57ed8d")
     (attr through_hole)
-    (fp_text reference "D66" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D66" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bcf1f597-5a3c-4bd2-ace3-2f193114d31d)
     )
@@ -8407,7 +8407,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9ff05eb4-2e36-4f88-ac23-79858761d16d)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 802c529d-3d79-43e2-8a8a-5b2d88925d91)
     )
@@ -8487,7 +8487,7 @@
     (property "ki_keywords" "diode")
     (path "/9f2162f6-a97e-49b4-bf3d-4dbba028930f")
     (attr through_hole)
-    (fp_text reference "D26" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D26" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8b472951-0172-4d43-be90-b3c0d88fe361)
     )
@@ -8495,7 +8495,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8c0b29a9-309b-4952-9456-b0d3bde31904)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 59a0895d-401c-4a4d-98e3-16b1aa1cdca0)
     )
@@ -8575,7 +8575,7 @@
     (property "ki_keywords" "diode")
     (path "/b68f3360-6979-4acf-8855-5445e76ac85b")
     (attr through_hole)
-    (fp_text reference "D17" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D17" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b22a8906-54a1-40a7-9252-f35ced13b9b2)
     )
@@ -8583,7 +8583,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp eff3b7f4-bcf0-498a-913b-68ba3c82d0bb)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 56a747e9-9c87-4a16-b44b-ca40ceffb191)
     )
@@ -8663,7 +8663,7 @@
     (property "ki_keywords" "diode")
     (path "/9f7414da-75af-4769-984a-b6c51e0f69bd")
     (attr through_hole)
-    (fp_text reference "D33" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D33" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp beb4f80c-8134-4e37-b85a-0e403146a62d)
     )
@@ -8671,7 +8671,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6dce83b1-8d60-4c5b-b51d-cdbea673054d)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 42cce19d-f0c0-4e1c-9f03-5fc53b8b5134)
     )
@@ -8871,7 +8871,7 @@
     (property "ki_keywords" "diode")
     (path "/9348f5d3-83ec-49e8-834b-836d964bd5e0")
     (attr through_hole)
-    (fp_text reference "D41" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D41" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 03230771-0baf-42fe-99c8-bd0d8691fef1)
     )
@@ -8879,7 +8879,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5ab8364d-8b52-4787-ba76-2405a9fd557a)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 14302f67-93df-4769-b081-212cce183160)
     )
@@ -8959,7 +8959,7 @@
     (property "ki_keywords" "diode")
     (path "/49f3b1d9-2283-4065-b6d7-c79026027d23")
     (attr through_hole)
-    (fp_text reference "D37" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D37" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 370a6024-1be5-47fc-9fed-95087d6eb602)
     )
@@ -8967,7 +8967,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cfb35d8f-1f18-4726-a674-8e3a22269d74)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5510afab-6b45-49ca-87f5-480c19ffddd1)
     )
@@ -9351,7 +9351,7 @@
     (property "ki_keywords" "diode")
     (path "/beb6db50-dbce-4efe-a3f4-50774465f269")
     (attr through_hole)
-    (fp_text reference "D25" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D25" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4a77c0f6-cc49-46ba-a208-ec7454133e60)
     )
@@ -9359,7 +9359,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 249e4707-f82b-4980-b5ca-85d1ee02fc19)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 12edcc5d-1170-42e2-8520-0945da907d2d)
     )
@@ -9439,7 +9439,7 @@
     (property "ki_keywords" "diode")
     (path "/98b61b8a-8cf3-4504-a8e8-0699b50f5a63")
     (attr through_hole)
-    (fp_text reference "D06" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D06" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 575b68a7-ec9b-4c81-ad20-4ab53ff0e0e7)
     )
@@ -9447,7 +9447,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be253e95-55ec-443b-8d4c-4552bee15709)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b6ce133d-8b30-4358-837d-3ab1908761d8)
     )
@@ -9527,7 +9527,7 @@
     (property "ki_keywords" "diode")
     (path "/149b279f-8bc8-4d54-a803-5ac34a80afe7")
     (attr through_hole)
-    (fp_text reference "D73" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D73" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e72e5883-3e4e-4587-ba2c-455a57b1bb56)
     )
@@ -9535,7 +9535,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 31fd586b-99e0-4e39-aa4c-ec156ae0d3af)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0786f25f-325b-468f-910c-1401aa88965e)
     )
@@ -10329,7 +10329,7 @@
     (property "ki_keywords" "diode")
     (path "/cd538053-02d4-46c4-9bd1-bb517ab1416e")
     (attr through_hole)
-    (fp_text reference "D52" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D52" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9541a59f-44b7-4b11-ab42-19dfabcacafa)
     )
@@ -10337,7 +10337,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ec72b5b6-e967-47be-8d7d-7d8dbd944921)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 424a0d1e-01d4-4c82-ad49-be900239b4a9)
     )
@@ -10777,7 +10777,7 @@
     (property "ki_keywords" "diode")
     (path "/34612773-76f4-4cb2-9621-f07b21cb59b4")
     (attr through_hole)
-    (fp_text reference "D30" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D30" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bd318ffc-28c8-40ab-a5c1-54934f7b293a)
     )
@@ -10785,7 +10785,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d26eb0c4-dc2d-46ad-be60-eac54944796a)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 23bdfde8-e41f-4595-9787-26131ce58f82)
     )
@@ -10865,7 +10865,7 @@
     (property "ki_keywords" "diode")
     (path "/dc8c50e3-522b-49fc-a422-29675257d4be")
     (attr through_hole)
-    (fp_text reference "D46" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D46" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b9615895-68d7-4687-b5be-16ef1682090e)
     )
@@ -10873,7 +10873,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bad10947-e5ab-4aec-9d02-cc6a52786329)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 559de354-fac8-4879-8b35-747242ce85be)
     )
@@ -10953,7 +10953,7 @@
     (property "ki_keywords" "diode")
     (path "/69a9d144-87fe-48d8-865b-fa7863f91d30")
     (attr through_hole)
-    (fp_text reference "D24" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D24" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 642e89ed-8b4d-4274-af3f-364234bcdfa3)
     )
@@ -10961,7 +10961,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp eb406570-03d7-4f29-bee1-8f7419d2132e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f7d088ce-4aa8-488a-ae72-9cb170e088f6)
     )
@@ -11107,7 +11107,7 @@
     (property "ki_keywords" "diode")
     (path "/d954d413-02f8-4b68-9e03-6fe4b1d1cb8f")
     (attr through_hole)
-    (fp_text reference "D00" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D00" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 04978289-c869-4902-b888-9a74ef0268d2)
     )
@@ -11115,7 +11115,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6bab3781-417a-4b77-9933-1cc744f8a164)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6ee5fd00-10e4-40e7-bdc4-bb558a6ae71c)
     )
@@ -11195,7 +11195,7 @@
     (property "ki_keywords" "diode")
     (path "/31639a29-71ed-408a-bb0f-3e44693d55e9")
     (attr through_hole)
-    (fp_text reference "D72" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D72" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 343abd3e-2718-4879-99ac-fb4baf21aa0e)
     )
@@ -11203,7 +11203,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3238d5df-8123-4a8d-af7c-fd56813fb37e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bbe25276-afb7-4ce8-a11b-ee6b90d5eab7)
     )
@@ -11523,7 +11523,7 @@
     (property "ki_keywords" "diode")
     (path "/7fabef74-6349-48a6-8b16-0dbec4e3dd95")
     (attr through_hole)
-    (fp_text reference "D03" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D03" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 01e0def2-9b62-4baf-aa99-7961c1b881c5)
     )
@@ -11531,7 +11531,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f9f4015a-79ed-4363-a319-8b182c6c0e8a)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fc30c3c6-085d-4f08-a3ae-a6edab6024e2)
     )
@@ -11971,7 +11971,7 @@
     (property "ki_keywords" "diode")
     (path "/376bb947-ed49-44e4-8798-a6f30d4403db")
     (attr through_hole)
-    (fp_text reference "D22" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D22" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 841698d4-2c2e-47ce-be87-078080158f93)
     )
@@ -11979,7 +11979,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c37c8779-edfd-4b3e-bcd2-a84986a7b6a7)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4ac430ff-88e6-4364-a07d-6ef25da23565)
     )
@@ -12059,7 +12059,7 @@
     (property "ki_keywords" "diode")
     (path "/6ae5da56-0721-44d7-a604-7d336ae300dd")
     (attr through_hole)
-    (fp_text reference "D65" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D65" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7cbcf81f-b17f-48d3-ae54-709ddbbe9b55)
     )
@@ -12067,7 +12067,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e0b84ca3-c6be-4aab-aa75-6e6cd5d9af3f)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e660cb94-aac8-469f-864c-e646f3b790dd)
     )
@@ -12267,7 +12267,7 @@
     (property "ki_keywords" "diode")
     (path "/16d9600c-1e0c-42be-b822-dbe7c7992be6")
     (attr through_hole)
-    (fp_text reference "D14" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D14" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0a481d9b-5b90-4720-b1d9-01a60a20392b)
     )
@@ -12275,7 +12275,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8e3e88dc-f12e-4c77-926d-846b22535fb0)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6f2e4784-40cb-46ae-8588-0f5cc869c039)
     )
@@ -12521,7 +12521,7 @@
     (property "ki_keywords" "diode")
     (path "/30d1a216-2e10-40c6-be64-7d5de10b27ac")
     (attr through_hole)
-    (fp_text reference "D63" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D63" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d59549aa-6acd-4bc7-a53a-3ddcfd4c6248)
     )
@@ -12529,7 +12529,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5da70423-eace-4843-8749-1420064a677f)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fb63f358-b345-41aa-8ebe-d60c98f1e9da)
     )
@@ -12849,7 +12849,7 @@
     (property "ki_keywords" "diode")
     (path "/486a51fb-5a60-4e60-878b-ecd23a4b8539")
     (attr through_hole)
-    (fp_text reference "D60" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D60" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f1c1b218-7a90-4b00-bb38-8e9f1db04255)
     )
@@ -12857,7 +12857,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp be9e0159-e06c-43e8-9fe3-5b7c9c232a07)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0264891c-94c2-4e10-9c83-60b8111667e5)
     )
@@ -13057,7 +13057,7 @@
     (property "ki_keywords" "diode")
     (path "/e8d31b4b-f7b1-40a7-8493-eac4b0e61458")
     (attr through_hole)
-    (fp_text reference "D20" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D20" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f00c9f70-a18a-4e34-a8c9-5830636e27ea)
     )
@@ -13065,7 +13065,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e23fd9af-2192-41c9-a725-b28435ac7e1e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ce4ffbdf-f87f-4df7-adc3-fdf0b5fb818a)
     )
@@ -13211,7 +13211,7 @@
     (property "ki_keywords" "diode")
     (path "/da780207-978a-46a9-8627-3250593fedb0")
     (attr through_hole)
-    (fp_text reference "D44" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D44" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8c6030a6-5e30-474d-a6b9-789fe7ca47c4)
     )
@@ -13219,7 +13219,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 092f0167-c548-497a-baee-945cc94f9825)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d1f5a6fd-f99f-413f-b284-abef5c58a7e9)
     )
@@ -13299,7 +13299,7 @@
     (property "ki_keywords" "diode")
     (path "/23169c15-4f20-484f-8301-b37dae873ac1")
     (attr through_hole)
-    (fp_text reference "D71" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D71" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8f1ca96b-cbe4-4ab8-a09c-81bd4832251f)
     )
@@ -13307,7 +13307,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8d1f4d25-bb2c-4411-bde1-be5fe6a35c0e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ed66326c-8601-4cc1-8384-7ec08ea5ab45)
     )
@@ -13823,7 +13823,7 @@
     (property "ki_keywords" "diode")
     (path "/0e95c4c7-e1c5-4640-936a-672549a885a8")
     (attr through_hole)
-    (fp_text reference "D57" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D57" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2e79e8de-4fed-4e7a-a2cd-5917d79f4722)
     )
@@ -13831,7 +13831,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c4b4d013-d08c-422b-9f55-c5ad20c7b953)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 07367da9-b5b2-499c-806a-daba203e53a5)
     )
@@ -14403,7 +14403,7 @@
     (property "ki_keywords" "diode")
     (path "/fea80a74-e77a-43cb-914a-0e9c0a2419dc")
     (attr through_hole)
-    (fp_text reference "D10" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D10" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ee892886-7bf8-48d6-ad66-4714fcd76bd8)
     )
@@ -14411,7 +14411,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 371bccf5-0033-4b79-8b4a-9574dca6fda4)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4d878829-c4cd-4963-9a33-1a0a014bdc6d)
     )
@@ -14611,7 +14611,7 @@
     (property "ki_keywords" "diode")
     (path "/5a7559b7-a708-4297-ab5f-4bba86753b85")
     (attr through_hole)
-    (fp_text reference "D07" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D07" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 232f3632-b5fe-4ed9-b9bd-ca07d5399d66)
     )
@@ -14619,7 +14619,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0a1e2b15-0353-4133-8e13-667a82ee96c8)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7a21d9a7-8b78-4ffd-9962-83b01c9acb7f)
     )
@@ -14699,7 +14699,7 @@
     (property "ki_keywords" "diode")
     (path "/2e65d6bf-6e86-4671-be29-03c04b8e2e92")
     (attr through_hole)
-    (fp_text reference "D51" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D51" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3004911a-64fe-4e89-b919-3eb7075ecfb4)
     )
@@ -14707,7 +14707,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3c7c500d-6b09-4f0c-9a8b-3997f4986648)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ebf23bc7-e189-4c32-bbf7-6f2213c35673)
     )
@@ -14787,7 +14787,7 @@
     (property "ki_keywords" "diode")
     (path "/35fe7db7-3bbe-4943-bf8e-bc469445feed")
     (attr through_hole)
-    (fp_text reference "D53" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D53" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 195b7b1c-02a5-4fd2-a452-f7b6e0ad014a)
     )
@@ -14795,7 +14795,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ea7073f3-b898-40b6-b286-2b1e000ecde8)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f7366302-67c5-41d1-a56b-147fae242658)
     )
@@ -14995,7 +14995,7 @@
     (property "ki_keywords" "diode")
     (path "/fee6ac83-fe77-4e23-8409-6f5b4aec4bf2")
     (attr through_hole)
-    (fp_text reference "D42" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D42" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fc76d120-9b57-498f-9dd9-fca3f4a5c3b0)
     )
@@ -15003,7 +15003,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 329e85b1-2e72-41c3-b76a-997fb2269413)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1f565d42-48d6-4841-84eb-b2db23d0738d)
     )
@@ -15083,7 +15083,7 @@
     (property "ki_keywords" "diode")
     (path "/0d999dc0-2168-4bd1-a488-f080d8dbb409")
     (attr through_hole)
-    (fp_text reference "D64" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D64" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp da455b8d-f9ed-42f5-b2d9-b836e376e2c1)
     )
@@ -15091,7 +15091,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f1d428fc-f6ea-4a1f-8bac-cc1a75e37bd1)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9997666f-10bd-46ce-9216-884ed2f70ee5)
     )
@@ -15171,7 +15171,7 @@
     (property "ki_keywords" "diode")
     (path "/7977c9ff-71f6-43d5-b3a4-f075fb2db154")
     (attr through_hole)
-    (fp_text reference "D76" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D76" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 14b2548e-7469-4b74-9799-9feafd6967b7)
     )
@@ -15179,7 +15179,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e621a1c5-93b1-4e86-a43d-54ebb5cc7e28)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8a3aaf0a-2d05-4fed-982b-43eafde73f42)
     )
@@ -15495,7 +15495,7 @@
     (property "ki_keywords" "diode")
     (path "/83487fbb-e697-45a7-ba5d-57e329c8725d")
     (attr through_hole)
-    (fp_text reference "D62" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D62" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a3df6829-6678-4d62-917f-53463aeffa1b)
     )
@@ -15503,7 +15503,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b9c19e69-ff61-45b5-8f2d-02c91fd5b96e)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 86c8eee4-287f-49d6-aa98-c5cba248db93)
     )
@@ -15939,7 +15939,7 @@
     (property "ki_keywords" "diode")
     (path "/866ae3d1-1a38-43c9-ae3b-707259e4f830")
     (attr through_hole)
-    (fp_text reference "D21" (at 3.81 -2.12 90) (layer "F.SilkS")
+    (fp_text reference "D21" (at 3.81 -2.12 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d0c46af1-3aae-4ced-ac8e-0b460b203db6)
     )
@@ -15947,7 +15947,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cb451890-73a2-46f2-bd1f-9b09677f80ce)
     )
-    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS")
+    (fp_text user "K" (at 0 -1.8 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 93311347-a972-4b58-b19d-987fccd9ebcf)
     )
