@@ -3,16 +3,18 @@
 
 This is a work in progress...  
 
-Current status: prototyping on breadboard.  
+Current status: prototype PCB on order.  
 
-LCD "hello world" experiment successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld  
-Keyboard / LCD "echo" experiment successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_echo    
+![](images/pcb_top.png)
+
+![](images/pcb_bottom.png)
+
+LCD "hello world" breadboard experiment - successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld  
+Keyboard / LCD "echo" breadboard experiment - successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_echo    
   
 ![Echo](images/breadboard_echo.jpg)  
 
 ![LCD Hello World](images/breadboard_LCD_Hello_World.jpg)  
-
-See: https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld  
 
 Schematic: [BeanBoard.pdf](/kicad/BeanBoard.pdf)  
 
