@@ -3,20 +3,20 @@
 
 This is a work in progress...  
 
-Current status: prototype PCB on order.  
-
-![](images/pcb_top.png)
-
-![](images/pcb_bottom.png)
-
-LCD "hello world" breadboard experiment - successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld  
-Keyboard / LCD "echo" breadboard experiment - successful https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_echo    
+* [Schematic](/kicad/BeanBoard.pdf) - done
+* Breadboard prototype - done
+* [LCD "hello world" breadboard experiment](https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld) - successful   
+* [Keyboard / LCD "echo" breadboard experiment](https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_echo) - successful  
+* PCB fabrication - todo
+* PCB prototype - todo
   
+    
+# Images
+
 ![Echo](images/breadboard_echo.jpg)  
 
 ![LCD Hello World](images/breadboard_LCD_Hello_World.jpg)  
 
-Schematic: [BeanBoard.pdf](/kicad/BeanBoard.pdf)  
 
 ## Keyboard  
 Aiming for the simplest possible design, using a simple matrix of switches. Diodes are used with each switch to prevent "[ghosting](https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting)".  
