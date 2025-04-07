@@ -7,7 +7,7 @@ This is a work in progress...
 * Breadboard prototype - done
 * [LCD "hello world" breadboard experiment](https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld) - successful   
 * [Keyboard / LCD "echo" breadboard experiment](https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_echo) - successful  
-* PCB fabrication - todo
+* PCB fabrication - in progress - MAJOR error with the first PCB: incorrect switch symbol/footprint means that the keys are laid out incorrectly
 * PCB prototype - todo
   
     
