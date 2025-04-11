@@ -13,9 +13,13 @@ I have loaded and run some test programs which show the circuit is working as ex
 
 ## Observations
 
-The key buttons are laid out as a full-sized keyboard, but I am using cheap tactile switches. This now seemsw wrong - if I am using a full-sized layout then I shold use proper MX keys/keycaps. If I want to have a small device for single-finger typing then the standard smaller tactile buttons are fine. What I have currently sits between the two concepts and isn't satisfying.
+The buttons are laid out as a full-sized keyboard, but I am using cheap tactile switches. This now seems wrong to me - if I am using a full-sized layout then I should use proper MX keys/keycaps. 
 
-If I want a small design, then I should shrink it as small as I can; I could move the logic underneath the BeanZee piggyback board. 
+But if I want to have a small experimental device for single-finger typing then the standard smaller tactile buttons on a smaller layout would be good. 
+
+What I have currently sits between the two concepts and isn't satisfying. 
+
+If I do opt for a small design, then I'd shrink it as small as I can; I could move the logic underneath the BeanZee piggyback board. 
 
 The LCD may need to be angled to read easily, but this too may be solved just by making the board smaller.
     
