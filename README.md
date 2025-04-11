@@ -11,7 +11,7 @@ There is a significant problem with the switches on the PCB: On the schematic I 
 
 I have loaded and run some test programs which show the circuit is working as expected. 
 
-Observations
+## Observations
 
 The key buttons are laid out as a full-sized keyboard, but I am using cheap tactile switches. This now seemsw wrong - if I am using a full-sized layout then I shold use proper MX keys/keycaps. If I want to have a small device for single-finger typing then the standard smaller tactile buttons are fine. What I have currently sits between the two concepts and isn't satisfying.
 
