@@ -22,6 +22,10 @@ What I have currently sits between the two concepts and isn't satisfying.
 If I do opt for a small design, then I'd shrink it as small as I can; I could move the logic underneath the BeanZee piggyback board. 
 
 The LCD may need to be angled to read easily, but this too may be solved just by making the board smaller.
+
+Separating the GPIO connectors and power (4 separate sockets) seems flimsy. I also should consider whether there are standard configurations for connectors - e.g. RPi GPIO.
+
+Battery... I need to think about what happens when you unplug the USB. Would be nice to continue to use the system from a battery, especially with something plugged into the GPIO.
     
 # Gallery
 
