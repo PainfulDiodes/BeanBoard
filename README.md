@@ -3,15 +3,25 @@
 
 This is a work in progress...  
 
-* [Schematic](/kicad/BeanBoard.pdf) - done
-* Breadboard prototype - done
-* [LCD "hello world" breadboard experiment](https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_helloworld) - successful   
-* [Keyboard / LCD "echo" breadboard experiment](https://github.com/PainfulDiodes/BeanZeeBytes/tree/main/asm_examples/beanboard_echo) - successful  
-* PCB fabrication - in progress - MAJOR error with the first PCB: incorrect switch symbol/footprint means that the keys are laid out incorrectly
-* PCB prototype - todo
-  
+[Schematic](/kicad/BeanBoard.pdf)  
+
+Currently I am testing out a first PCB prototype. 
+
+There is a significant problem with the switches on the PCB: On the schematic I originally used a generic SPST switch symbol (2-pins) and then later added a specific button footprint for the switches I am using (4-pins). I realise now that I should have replaced the switch symbols on the schematic, which would have made the 4 pins explicit. As it is, the pairs of pins for the switches I am using on the PCB all are shorted. By removing the diodes I can patch the matrix to work - by connecting an unconnected pin to where the diode used to be. Unfortunate, and I will need to change the PCB in the next version, but I can now continue to evaluate the design. 
+
+I have loaded and run some test programs which show the circuit is working as expected. 
+
+Observations
+
+The key buttons are laid out as a full-sized keyboard, but I am using cheap tactile switches. This now seemsw wrong - if I am using a full-sized layout then I shold use proper MX keys/keycaps. If I want to have a small device for single-finger typing then the standard smaller tactile buttons are fine. What I have currently sits between the two concepts and isn't satisfying.
+
+If I want a small design, then I should shrink it as small as I can; I could move the logic underneath the BeanZee piggyback board. 
+
+The LCD may need to be angled to read easily, but this too may be solved just by making the board smaller.
     
-# Images
+# Gallery
+
+![Assembled Beanboard prototype](/images/beanboard_assembled.jpg)
 
 ![Echo](images/breadboard_echo.jpg)  
 
@@ -19,7 +29,9 @@ This is a work in progress...
 
 
 ## Keyboard  
-Aiming for the simplest possible design, using a simple matrix of switches. Diodes are used with each switch to prevent "[ghosting](https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting)".  
+Aiming for the simplest possible design, using a simple matrix of switches. 
+
+Diodes are used with each switch to prevent "[ghosting](https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting)".  
 
 The circuit expects the CPU to send a "strobe" - output to a defined port. A latch is used to capture the strobe - so that the state persists after the CPU has stopped outputting to the port. This strobe should have only one bit set high. This is the "live" row.
 
