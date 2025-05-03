@@ -39,7 +39,7 @@ Battery... I need to think about what happens when you unplug the USB. Would be 
 ## Keyboard  
 Aiming for the simplest possible design, using a simple matrix of switches. 
 
-Diodes are used with each switch to prevent "[ghosting](https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting)".  
+Diodes are used with each switch to prevent [ghosting](https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting).  
 
 The circuit expects the CPU to send a "strobe" - output to a defined port. A latch is used to capture the strobe - so that the state persists after the CPU has stopped outputting to the port. This strobe should have only one bit set high. This is the "live" row.
 
