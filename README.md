@@ -27,7 +27,7 @@ Separating the GPIO connectors and power (4 separate sockets) seems flimsy. I al
 
 Battery... I need to think about what happens when you unplug the USB. Would be nice to continue to use the system from a battery, especially with something plugged into the GPIO.
     
-# Gallery
+## Gallery
 
 ![Assembled Beanboard prototype](/images/beanboard_assembled.jpg)
 
