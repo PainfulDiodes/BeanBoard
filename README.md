@@ -69,8 +69,9 @@ The CPU will loop back and successively set each strobe bit high. Having gone th
 
 ## LCD
 The [Hitachi HD44780 LCD controller](https://en.wikipedia.org/wiki/Hitachi_HD44780_LCD_controller) has been around since the 1980's and is still popular to control character-based LCD displays:  
-[HD44780 datasheet](https://cdn-shop.adafruit.com/datasheets/HD44780.pdf)   
-[Adafruit Standard LCD 20x4](https://www.adafruit.com/product/198)  
+* [HD44780 datasheet](https://cdn-shop.adafruit.com/datasheets/HD44780.pdf)   
+* [Adafruit Standard LCD 20x4](https://www.adafruit.com/product/198)  
+
 A parallel interface makes it CPU bus friendly - with 8 data bits, enable, R/W and register select inputs.
 
 ## GPIO
