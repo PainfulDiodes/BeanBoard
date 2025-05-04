@@ -13,7 +13,7 @@ This will be fixed in the next version.
 
 There is a problem with the switches on the PCB: On the schematic I originally used a generic SPST switch symbol (2-pins) and then later added a specific button footprint for the tactile switches I am using (4-pins).
 
-The switch symbols on the schematic needed to be replaced, which would have made the 4 pins explicit on both the schematic and the PCB layout. Becuse of this the PCB expects the switch to appear across pins 1 and 2, but pins 1 and 2 of the switch are connected together and pins 3 and 4 are also connected. The result of this is that if the PCB is assembled as per the diagrams and silk screen layout, then all the switches will act as permanently closed.
+There was an issue mapping the pins with the result that the PCB expects the switch to appear across pins 1 and 2, but the switch is connected across pins 1/2 and pins 3/4. Pins 1 and 2 of the switch are connected together and pins 3 and 4 are also connected. The result of this is that if the PCB is assembled as per the diagrams and silk screen layout, then all the switches will act as permanently closed.
 
 The workaround for this is instead of fitting the diodes as per the layout, solder the diodes on the rear of the board between pin 3 of the switch and the pad which indicates the cathode of the diode (diode shown in white):
 
