@@ -394,9 +394,7 @@
     "pinned_footprint_libs": [
       "SW_B3F-4000_OMR"
     ],
-    "pinned_symbol_libs": [
-      "SW_B3F-4000_OMR"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "BeanBoard.kicad_pro",
