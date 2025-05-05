@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "omron-B3F-4000")(type "KiCad")(uri "${KIPRJMOD}/omron-B3F-4000.kicad_sym")(options "")(descr ""))
-  (lib (name "SW_B3F-4000_OMR")(type "KiCad")(uri "${KIPRJMOD}/SW_B3F-4000_OMR.kicad_sym")(options "")(descr ""))
-)
