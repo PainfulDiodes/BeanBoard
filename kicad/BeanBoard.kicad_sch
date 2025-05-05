@@ -7661,7 +7661,7 @@
     (property "Value" "Conn_02x10_Row_Letter_First" (at 222.25 232.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 220.98 246.38 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" (at 220.98 246.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 220.98 246.38 0)
