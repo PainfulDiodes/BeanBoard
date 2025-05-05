@@ -391,9 +391,7 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "SW_B3F-4000_OMR"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {
