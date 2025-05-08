@@ -17,14 +17,6 @@
   )
   (fp_line (start -1.323947 -1.27643) (end -1.323947 3.86357)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 3591bc13-861b-4665-9345-e8072a0c7a08))
-  (fp_line (start -1.323947 -1.27643) (end 1.336053 -1.27643)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 98acc0a4-e4b0-4f60-b629-9c7e229e0f82))
-  (fp_line (start -1.323947 3.86357) (end 1.336053 3.86357)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp b57ea17d-dfc2-4642-9149-41d93cde02df))
-  (fp_line (start -0.065 6.3) (end 1.265 6.3)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 1ca41ce4-7d15-493c-b054-65ea5780b541))
-  (fp_line (start 1.274571 4.978423) (end 1.274571 6.308423)
-    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp ab33615a-1037-48f4-b33f-128b4036c258))
   (fp_line (start 1.336053 -1.27643) (end 1.336053 3.86357)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 2d93da5e-f390-47df-ac6a-b2412590cd27))
   (fp_line (start -1.8 -1.8) (end 1.75 -1.8)
@@ -35,8 +27,6 @@
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 855c6763-676a-43f4-96d0-dc4eb5094a15))
   (fp_line (start 1.75 6.85) (end -1.8 6.85)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp daafbea4-73b1-49a0-923d-61f5dc85f07e))
-  (fp_line (start -1.27 -1.27) (end 0.635 -1.27)
-    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 8c1560ec-36ff-49e2-8a0a-177bf9e0d9ab))
   (fp_line (start -1.27 6.35) (end -1.27 -1.27)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp e9c65855-0116-4e7d-8840-137bf3c18745))
   (fp_line (start 0.635 -1.27) (end 1.27 -0.635)
@@ -48,20 +38,6 @@
   (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp e097a2b7-f6e6-4d57-acd3-7bcd07f28305))
   (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 2a216c2b-ef76-4454-9a27-5087f1a3e789))
   (pad "3" thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 87b6e987-5f4c-41ef-898e-26c9db7a1e81))
-  (group "" (id 220abd8f-8763-4c87-aa77-49f1f1e94f2e)
-    (members
-      1ca41ce4-7d15-493c-b054-65ea5780b541
-      ab33615a-1037-48f4-b33f-128b4036c258
-    )
-  )
-  (group "" (id 231d4293-64fb-43f1-8b5a-fadcc9cbba65)
-    (members
-      2d93da5e-f390-47df-ac6a-b2412590cd27
-      3591bc13-861b-4665-9345-e8072a0c7a08
-      98acc0a4-e4b0-4f60-b629-9c7e229e0f82
-      b57ea17d-dfc2-4642-9149-41d93cde02df
-    )
-  )
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x03_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
