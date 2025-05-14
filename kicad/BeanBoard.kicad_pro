@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 1.0,
+          "height": 1.7,
+          "width": 1.7
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -49,9 +49,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|109595000|124555000|b8438107-ab50-471b-8046-bda7e718efad|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -391,7 +389,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "Button_Switch_Keyboard_alt"
+      "Button_Switch_Keyboard_alt",
+      "Potentiometer_THD_vertical"
     ],
     "pinned_symbol_libs": []
   },
