@@ -3,7 +3,7 @@
   (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
   (tags "Cherry MX keyswitch 1.00u PCB")
   (attr through_hole)
-  (fp_text reference "REF**" (at -9.8 -3.4) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -9.691677 -3.358979) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c03327f2-012e-4fbf-80a8-a7d4b49f6df2)
   )
