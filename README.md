@@ -1,58 +1,20 @@
 # BeanBoard
-## QWERTY Keyboard and a simple LCD display for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
+QWERTY Keyboard, simple LCD display and GPIO for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
 
-**Status: evaluating first prototype**
+Status: Fabrication of v2 PCB
 
-***NOTE: There are significant issues with the current PCB layout requiring a workaround (described below) - use of the current layout is therefore not recommended***
-
-This will be fixed in the next version.
-
-# Prototype 
-
-## Assembly Workaround
-
-There is a problem with the switches on the PCB: On the schematic I originally used a generic SPST switch symbol (2-pins) and then later added a specific button footprint for the tactile switches I am using (4-pins).
-
-There was an issue mapping the pins with the result that the PCB expects the switch to appear across pins 1 and 2, but the switch is connected across pins 1/2 and pins 3/4. Pins 1 and 2 of the switch are connected together and pins 3 and 4 are also connected. The result of this is that if the PCB is assembled as per the diagrams and silk screen layout, then all the switches will act as permanently closed.
-
-The workaround for this is instead of fitting the diodes as per the layout, solder the diodes on the rear of the board between pin 3 of the switch and the pad which indicates the cathode of the diode (diode shown in white):
-
-<img src="images/beanboard_pcb_workaround.png" width="300"/>
-
-In order to quickly continue evaluating the board, I have adopted a simpler workaround - use a wire link in place of a diode, between pin 4 of the switch and the diode cathode pad:
-
-<img src="images/beanboard_pcb_workaround_2.png" width="300"/>
-
-## Testing and Observations
-
-I have successfully loaded and run some test programs which show the keyboard and LCD display are working as expected.
-
-The buttons are laid out as a full-sized keyboard, but I am using low-csot tactile switches. This now seems wrong to me: 
-
-If I am using a full-sized layout then I should use Cherry MX style keys/keycaps.  
-
-But if I want to have a small experimental device for single-finger typing then the standard smaller tactile buttons on a smaller layout would be better. 
-
-What I have currently sits between these two designs and isn't satisfying. 
-
-There's a lot of empty space in any case; I could move the logic chips underneath the BeanZee piggyback board. 
-
-The LCD may need to be angled to read easily, but this might be solved just by making the board smaller.
-
-Separating the GPIO connectors and power (4 separate sockets) seems flimsy. I also should consider whether there are standard configurations for connectors - e.g. RPi GPIO.
-
-It would be nice to continue to use the system powered by a battery, especially if something is plugged into the GPIO.
-    
 ## Gallery
+![](/images/BeanBoardPCB_2_a.png)
+Second PCB layout
 
-![Assembled Beanboard prototype](/images/beanboard_assembled.jpg)
-
-Note that in the image diodes are fitted as per the silk-screen printing. As per the notes above, this does not work. I removed the diodes and replaced them with links to allow the keys to function.
+![Assembled Beanboard prototype](/images/beanboard_prototype_assembled.jpg)
+First PCB Prototype
 
 ![Echo](images/breadboard_echo.jpg)  
+Breadboard prototype keypad
 
 ![LCD Hello World](images/breadboard_LCD_Hello_World.jpg)  
-
+Breadboard prototype LCD display
 
 # Design
 
