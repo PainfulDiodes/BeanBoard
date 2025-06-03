@@ -1,8 +1,6 @@
 # BeanBoard
 QWERTY Keyboard, simple LCD display and GPIO for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
 
-Status: Fabrication of v2 PCB
-
 ## Gallery
 ![](/images/BeanBoardPCB_2_a.png)
 Second PCB layout
@@ -23,7 +21,7 @@ Aiming for the simplest possible design, using a simple matrix of switches.
 
 Diodes are used with each switch to prevent [ghosting](https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting).  
 
-The circuit expects the CPU to send a "strobe" - output to a defined port. A latch is used to capture the strobe - so that the state persists after the CPU has stopped outputting to the port. This strobe should have only one bit set high. This is the "live" row.
+The circuit expects the CPU to send a "strobe" - output to a keyboard output port. A latch is used to capture the strobe - so that the state persists after the CPU has stopped outputting to the port. This strobe should have only one bit set high. This is the "live" row.
 
 Then the CPU will read from a defined port to sense which columns are high - activated by switches being pressed. A buffer is used to gate the rows onto the data bus.
 
