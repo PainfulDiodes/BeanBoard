@@ -27,6 +27,8 @@ Then the CPU will read from a keyboard input port to sense which columns are hig
 
 The CPU will loop back and successively set each strobe bit high. Having gone through each bit and then read back the columns, we will have 64 bits of data (8x8) representing which keys are being pressed.
 
+The 8 electronic rows are arranged as 4 physical rows, pairing electronic rows consecutively: 0+1, 2+3, 4+5, 6+7
+
 ## LCD
 The [Hitachi HD44780 LCD controller](https://en.wikipedia.org/wiki/Hitachi_HD44780_LCD_controller) has been around since the 1980's and is still popular to control character-based LCD displays:  
 * [HD44780 datasheet](https://cdn-shop.adafruit.com/datasheets/HD44780.pdf)   
