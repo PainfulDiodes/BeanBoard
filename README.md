@@ -1,18 +1,7 @@
 # BeanBoard
+![](/images/beanboard_complete.jpg)
+
 QWERTY Keyboard, simple LCD display and GPIO for [BeanZee](https://github.com/PainfulDiodes/BeanZee)
-
-## Gallery
-![](/images/BeanBoardPCB_2_a.png)
-Second PCB layout
-
-![Assembled Beanboard prototype](/images/beanboard_prototype_assembled.jpg)
-First PCB Prototype
-
-![Echo](images/breadboard_echo.jpg)  
-Breadboard prototype keypad
-
-![LCD Hello World](images/breadboard_LCD_Hello_World.jpg)  
-Breadboard prototype LCD display
 
 # Design
 
