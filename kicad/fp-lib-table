@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "SW_B3F-4000_OMR")(type "KiCad")(uri "${KIPRJMOD}/SW_B3F-4000_OMR.pretty")(options "")(descr ""))
+  (lib (name "Connector_PinSocket_2.54mm_alt")(type "KiCad")(uri "${KIPRJMOD}/Connector_PinSocket_2.54mm_alt.pretty")(options "")(descr ""))
+  (lib (name "Button_Switch_Keyboard_alt")(type "KiCad")(uri "${KIPRJMOD}/Button_Switch_Keyboard_alt.pretty")(options "")(descr ""))
+  (lib (name "Potentiometer_THD_vertical")(type "KiCad")(uri "${KIPRJMOD}/Potentiometer_THD_vertical.pretty")(options "")(descr ""))
 )
