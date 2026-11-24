@@ -12,3 +12,6 @@ lst
 *.bin
 *.gbrjob
 *gbr.zip
+
+# Local git-based history (KiCad 9.0+)
+.history
