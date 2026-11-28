@@ -54911,6 +54911,16 @@
 		(layer "F.Fab")
 		(uuid "22d059e1-db4c-45f5-9a52-6080858e47fa")
 	)
+	(gr_line
+		(start 117.983 128.9304)
+		(end 121.8184 128.9304)
+		(stroke
+			(width 0.15)
+			(type dot)
+		)
+		(layer "User.1")
+		(uuid "b90fb758-5ffb-43d2-98b9-7af4ee40aa92")
+	)
 	(gr_text "VCC"
 		(at 60.121251 68.478585 0)
 		(layer "F.SilkS")
@@ -56195,6 +56205,30 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "BB POWER"
+		(at 61.4426 64.7954 0)
+		(layer "User.1")
+		(uuid "cf4a8c7a-c76e-4b75-92b1-1474c214cf37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "BB DATA"
+		(at 62.0014 100.6348 0)
+		(layer "User.1")
+		(uuid "da1daaee-ff71-4f11-9195-246e24b8ce0e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "D7"
 		(at 66.9036 121.6152 0)
 		(layer "User.1")
@@ -56243,10 +56277,22 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "MREQ en"
-		(at 118.0592 129.413 0)
+	(gr_text "BB MREQ EN"
+		(at 116.6114 128.0668 0)
 		(layer "User.1")
 		(uuid "ea4c58ef-aa91-4cd7-978e-c950f9b06196")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "BB IORQ EN"
+		(at 129.8702 122.7074 0)
+		(layer "User.1")
+		(uuid "8ed0dc22-b1d1-413b-b7fd-6a1a4b1ddee6")
 		(effects
 			(font
 				(size 1 1)
@@ -56339,10 +56385,34 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "BB CONTROL"
+		(at 147.701 129.413 0)
+		(layer "User.1")
+		(uuid "9b6e2aae-8c76-4e1a-9fa8-34b7e306f69d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "RD"
 		(at 147.8534 111.4044 0)
 		(layer "User.1")
 		(uuid "7951dacc-fa09-41d0-a4f9-19e8f853cb66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "BB ADDR"
+		(at 148.0312 65.532 0)
+		(layer "User.1")
+		(uuid "2b04ad40-c5aa-4fa8-8c3c-a4a7b7d1ea53")
 		(effects
 			(font
 				(size 1 1)
@@ -56363,10 +56433,34 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "N/C"
+		(at 132.0546 129.6416 90)
+		(layer "User.1")
+		(uuid "8dee3762-8973-4d13-8fa1-76f2f7e4d0e8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "USBIORQ"
 		(at 134.62 129.7178 90)
 		(layer "User.1")
 		(uuid "69e64909-c704-42b4-af13-b5e14eb6951a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "N/C"
+		(at 137.0838 129.6924 90)
+		(layer "User.1")
+		(uuid "7e8a237f-a1bd-4733-b725-24ed8b4a32d5")
 		(effects
 			(font
 				(size 1 1)
